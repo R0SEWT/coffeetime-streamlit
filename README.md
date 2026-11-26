@@ -1,7 +1,7 @@
-# ☕ CoffeeTime Café: predicción de retorno de clientes
+#  CoffeeTime Café: predicción de retorno de clientes
 
 Aplicación web en Streamlit que estima si un cliente de CoffeeTime Café regresará durante los
-próximos 30 días, para orientar las acciones de fidelización.
+próximos 30 días, para orientar las acciones de fidelización. 
 
 | Elemento | Definición |
 |---|---|
