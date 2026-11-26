@@ -3,6 +3,8 @@
 Aplicación web en Streamlit que estima si un cliente de CoffeeTime Café regresará durante los
 próximos 30 días, para orientar las acciones de fidelización. 
 
+**App publicada:** <https://coffeetime-app.streamlit.app/>
+
 | Elemento | Definición |
 |---|---|
 | Problema | Predecir si un cliente regresará en los próximos 30 días |
@@ -91,7 +93,11 @@ Las versiones de `requirements.txt` están fijadas a las del entrenamiento (Pyth
 ## Despliegue
 
 Publicado en Streamlit Community Cloud desde este repositorio: rama `main`, archivo principal
-`app.py`, Python 3.12.
+`app.py`, Python 3.12. URL: <https://coffeetime-app.streamlit.app/>
+
+| Cliente típico: 54.0 %, regresa | Cliente en riesgo: 23.7 %, no regresa |
+|---|---|
+| ![Predicción de un cliente que regresa](docs/prediccion_regresa.png) | ![Predicción de un cliente que no regresa](docs/prediccion_no_regresa.png) |
 
 ## Estructura
 
@@ -102,5 +108,6 @@ coffeetime-streamlit/
 ├── app.py                    # aplicación Streamlit
 ├── model.joblib              # pipeline entrenado (preprocesamiento + Random Forest)
 ├── requirements.txt          # dependencias con versiones fijas
+├── docs/                     # capturas de la app publicada
 └── README.md
 ```
