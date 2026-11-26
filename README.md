@@ -3,6 +3,17 @@
 Aplicación web en Streamlit que estima si un cliente de CoffeeTime Café regresará durante los
 próximos 30 días, para orientar las acciones de fidelización. 
 
+
+---
+Ejercicio de despliegue Metodología para Data Science - 1ACC0240-17499
+
+
+<img width="573" height="328" alt="image" src="https://github.com/user-attachments/assets/c6c283f7-94b9-44a2-abe9-47c6a1cc8ffc" />
+
+
+---
+
+
 **App publicada:** <https://coffeetime-app.streamlit.app/>
 
 | Elemento | Definición |
