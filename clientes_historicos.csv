@@ -1,0 +1,1501 @@
+﻿cliente_id,edad,visitas_ultimos_90_dias,gasto_promedio,dias_desde_ultima_visita,canal_compra,producto_favorito,usa_programa_fidelidad,descuentos_utilizados,calificacion_promedio,frecuencia_compras,regresa_30_dias
+HIS00001,49,6,7.85,21,Presencial,Postres,1,1,4.2,1.77,0
+HIS00002,22,4,25.56,9,Aplicación,Bebidas frías,0,0,4.8,1.1,1
+HIS00003,34,3,24.83,12,Presencial,Café,0,1,3.7,0.81,0
+HIS00004,22,4,30.56,4,Presencial,Postres,0,2,4.4,1.79,1
+HIS00005,18,1,27.36,6,Presencial,Postres,1,2,4.3,0.48,0
+HIS00006,48,5,27.88,5,Presencial,Café,1,1,3.7,1.26,0
+HIS00007,32,4,19.24,7,Presencial,Café,0,4,5.0,1.39,1
+HIS00008,35,4,16.11,32,Presencial,Bebidas frías,0,1,4.4,1.31,1
+HIS00009,45,5,18.29,12,Presencial,Postres,0,2,4.0,1.6,1
+HIS00010,50,4,18.29,12,Presencial,Postres,1,1,4.8,1.71,1
+HIS00011,38,8,17.24,7,Presencial,Café,1,4,4.1,3.04,1
+HIS00012,42,7,16.6,18,Presencial,Otros,0,1,3.7,2.34,1
+HIS00013,32,5,14.88,21,Presencial,Café,0,0,5.0,1.55,0
+HIS00014,37,4,20.33,49,Presencial,Café,1,1,3.9,1.35,1
+HIS00015,40,2,33.87,15,Aplicación,Café,1,2,4.6,0.7,1
+HIS00016,41,7,14.33,3,Presencial,Otros,0,1,4.6,2.65,1
+HIS00017,37,9,14.22,11,Presencial,Postres,0,1,4.0,2.91,1
+HIS00018,34,2,21.3,9,Delivery,Café,0,1,4.7,1.04,0
+HIS00019,22,2,19.93,26,Presencial,Café,0,2,4.7,0.64,0
+HIS00020,33,5,17.61,5,Presencial,Bebidas frías,0,0,3.6,1.74,1
+HIS00021,32,4,26.71,6,Presencial,Café,1,2,2.7,1.47,1
+HIS00022,34,8,23.8,11,Aplicación,Café,0,0,3.3,2.99,0
+HIS00023,51,3,17.54,13,Presencial,Café,0,2,4.6,0.42,1
+HIS00024,32,5,16.02,16,Presencial,Café,0,2,4.2,1.84,1
+HIS00025,52,3,26.52,20,Presencial,Café,0,2,4.9,1.43,1
+HIS00026,25,2,28.56,15,Presencial,Café,1,2,4.2,0.77,1
+HIS00027,50,5,23.38,5,Presencial,Café,1,1,4.6,1.58,0
+HIS00028,26,7,25.22,18,Aplicación,Bebidas frías,1,1,3.9,2.65,1
+HIS00029,34,6,20.69,19,Presencial,Café,0,3,4.6,1.98,1
+HIS00030,38,4,23.97,5,Presencial,Bebidas frías,1,1,3.7,1.38,1
+HIS00031,44,7,22.83,15,Aplicación,Café,0,2,3.5,2.51,1
+HIS00032,37,8,17.57,9,Presencial,Café,1,0,4.7,2.85,1
+HIS00033,35,5,18.57,3,Presencial,Café,1,2,3.9,1.29,1
+HIS00034,35,5,26.9,11,Presencial,Postres,0,1,4.9,1.6,1
+HIS00035,35,3,18.26,5,Presencial,Café,0,1,4.2,0.95,0
+HIS00036,40,4,13.23,11,Aplicación,Café,0,1,3.7,1.25,1
+HIS00037,35,7,18.2,2,Presencial,Bebidas frías,1,1,4.2,2.49,1
+HIS00038,36,6,26.3,10,Presencial,Café,0,0,3.5,1.91,1
+HIS00039,36,4,20.71,9,Presencial,Café,1,1,3.5,1.35,1
+HIS00040,29,10,19.85,11,Presencial,Bebidas frías,0,0,3.3,3.43,1
+HIS00041,44,4,22.18,29,Presencial,Café,0,1,4.3,1.03,0
+HIS00042,41,6,13.23,16,Presencial,Otros,0,3,4.1,1.9,1
+HIS00043,42,6,25.23,20,Presencial,Café,0,2,5.0,2.02,0
+HIS00044,37,5,16.44,9,Presencial,Café,0,3,4.3,1.71,1
+HIS00045,38,6,21.01,17,Delivery,Café,0,4,3.4,1.81,1
+HIS00046,50,3,24.87,42,Delivery,Café,0,2,4.4,1.28,0
+HIS00047,27,4,24.14,14,Presencial,Café,1,2,3.5,1.51,0
+HIS00048,36,4,17.21,31,Presencial,Café,1,2,4.3,0.95,1
+HIS00049,26,2,16.33,3,Presencial,Bebidas frías,1,1,3.9,0.62,1
+HIS00050,18,9,11.84,5,Presencial,Café,1,0,4.5,3.0,1
+HIS00051,24,7,18.89,22,Presencial,Café,0,0,4.8,2.54,1
+HIS00052,33,6,30.85,26,Presencial,Café,0,3,4.3,1.25,1
+HIS00053,48,6,26.12,11,Presencial,Café,0,3,4.0,1.69,1
+HIS00054,38,4,18.13,19,Presencial,Postres,0,0,3.5,1.16,0
+HIS00055,52,6,19.67,11,Presencial,Bebidas frías,0,2,4.5,2.07,1
+HIS00056,29,7,26.13,19,Presencial,Café,0,2,4.0,2.33,1
+HIS00057,28,5,10.53,9,Presencial,Café,0,1,3.6,1.47,1
+HIS00058,33,8,36.35,8,Presencial,Café,1,1,4.2,2.95,1
+HIS00059,23,8,22.25,18,Presencial,Café,1,0,3.4,3.0,1
+HIS00060,34,6,26.11,21,Presencial,Café,1,0,4.7,2.04,1
+HIS00061,35,9,17.93,3,Presencial,Café,0,2,4.4,3.27,1
+HIS00062,35,6,32.14,14,Presencial,Café,1,1,4.8,2.12,1
+HIS00063,33,8,21.11,19,Delivery,Café,1,0,4.1,2.34,1
+HIS00064,53,4,35.22,5,Presencial,Postres,0,0,3.3,1.14,1
+HIS00065,35,3,20.48,35,Presencial,Café,0,0,3.6,0.97,0
+HIS00066,42,4,30.23,7,Presencial,Café,0,2,4.1,1.62,1
+HIS00067,62,2,20.19,0,Presencial,Bebidas frías,0,3,4.3,0.33,0
+HIS00068,48,2,19.36,9,Presencial,Café,1,2,4.6,0.45,0
+HIS00069,33,4,18.08,8,Delivery,Postres,0,1,4.9,1.68,1
+HIS00070,32,8,26.0,14,Presencial,Bebidas frías,1,0,4.5,2.52,1
+HIS00071,46,8,28.55,6,Presencial,Café,0,0,3.5,2.89,1
+HIS00072,42,5,24.69,15,Aplicación,Café,0,2,4.7,1.78,1
+HIS00073,30,4,20.25,16,Presencial,Café,0,0,4.0,1.26,1
+HIS00074,37,4,20.62,11,Presencial,Café,1,2,3.7,0.97,1
+HIS00075,34,5,20.83,17,Presencial,Otros,1,0,3.6,1.88,1
+HIS00076,31,6,32.7,6,Presencial,Café,0,3,3.6,2.62,1
+HIS00077,59,8,25.29,11,Presencial,Café,0,5,3.8,2.49,1
+HIS00078,36,4,25.62,44,Presencial,Café,1,2,3.5,1.5,1
+HIS00079,32,1,38.88,11,Presencial,Café,1,2,4.4,0.59,0
+HIS00080,30,7,21.62,48,Presencial,Postres,1,2,3.6,2.13,0
+HIS00081,32,5,17.34,25,Aplicación,Café,1,0,3.6,1.51,0
+HIS00082,41,6,21.45,21,Presencial,Otros,1,1,4.6,2.18,0
+HIS00083,37,5,28.17,37,Presencial,Bebidas frías,1,2,4.6,1.29,1
+HIS00084,44,6,24.2,17,Delivery,Café,0,2,3.0,2.03,0
+HIS00085,34,6,20.05,37,Presencial,Café,1,1,4.3,1.57,1
+HIS00086,24,12,16.71,13,Presencial,Café,1,0,4.6,3.43,0
+HIS00087,33,4,17.54,19,Aplicación,Café,0,0,4.0,1.26,0
+HIS00088,31,7,21.99,11,Aplicación,Café,1,0,4.7,2.62,1
+HIS00089,35,6,30.46,17,Presencial,Café,0,3,3.9,2.63,0
+HIS00090,34,6,14.47,4,Presencial,Café,0,0,3.4,1.5,1
+HIS00091,18,5,23.02,15,Aplicación,Otros,1,3,4.1,1.26,1
+HIS00092,40,4,17.27,9,Presencial,Bebidas frías,1,0,4.5,1.33,0
+HIS00093,51,7,13.6,18,Presencial,Café,1,0,3.6,2.93,1
+HIS00094,30,4,29.94,21,Presencial,Bebidas frías,1,1,4.1,1.62,0
+HIS00095,41,2,21.92,20,Presencial,Café,0,0,3.7,0.67,1
+HIS00096,39,6,20.25,13,Presencial,Bebidas frías,1,0,3.1,1.99,1
+HIS00097,42,2,25.81,14,Presencial,Bebidas frías,1,0,4.6,0.45,0
+HIS00098,51,4,33.56,33,Presencial,Bebidas frías,1,2,4.2,1.44,0
+HIS00099,43,4,17.3,33,Presencial,Postres,0,2,3.8,1.09,0
+HIS00100,28,8,25.75,39,Presencial,Bebidas frías,1,2,4.2,2.59,1
+HIS00101,47,6,16.45,19,Presencial,Café,0,1,5.0,2.01,0
+HIS00102,33,4,23.75,14,Presencial,Bebidas frías,0,2,4.6,1.24,1
+HIS00103,29,4,27.24,14,Presencial,Café,0,2,3.4,1.11,1
+HIS00104,28,4,21.28,23,Presencial,Bebidas frías,0,1,4.1,1.53,1
+HIS00105,43,4,36.78,16,Aplicación,Café,0,1,3.1,1.24,0
+HIS00106,39,6,14.86,5,Delivery,Postres,1,1,4.7,2.44,1
+HIS00107,39,4,14.96,15,Presencial,Postres,0,0,4.0,1.48,0
+HIS00108,39,7,28.64,22,Presencial,Bebidas frías,0,2,4.5,2.01,1
+HIS00109,23,2,14.65,9,Delivery,Postres,1,3,4.0,0.38,1
+HIS00110,29,7,19.82,19,Presencial,Café,1,2,4.3,2.38,1
+HIS00111,30,3,29.36,8,Presencial,Otros,0,3,4.1,1.08,1
+HIS00112,33,11,19.7,15,Presencial,Bebidas frías,1,2,3.9,4.02,1
+HIS00113,35,5,26.82,14,Presencial,Café,1,1,3.9,1.82,1
+HIS00114,19,5,22.33,5,Presencial,Café,0,3,4.6,2.18,1
+HIS00115,26,6,16.77,8,Presencial,Café,1,1,3.8,2.06,0
+HIS00116,47,6,19.3,46,Presencial,Bebidas frías,0,0,4.3,1.81,0
+HIS00117,18,9,21.53,24,Presencial,Café,1,0,4.6,3.07,1
+HIS00118,49,5,18.63,23,Presencial,Café,0,0,4.3,1.14,1
+HIS00119,23,3,25.5,18,Presencial,Café,1,1,4.0,1.28,0
+HIS00120,49,7,14.2,10,Presencial,Café,1,0,3.8,2.08,1
+HIS00121,34,7,27.51,12,Aplicación,Café,0,3,4.7,2.68,1
+HIS00122,34,3,23.42,16,Presencial,Bebidas frías,0,0,3.7,0.78,1
+HIS00123,40,7,10.01,31,Presencial,Café,1,2,3.7,2.12,1
+HIS00124,47,5,23.68,22,Presencial,Café,1,2,4.3,1.61,0
+HIS00125,33,5,23.04,4,Presencial,Café,0,0,3.9,1.3,1
+HIS00126,34,3,22.01,13,Delivery,Postres,1,0,4.0,1.15,1
+HIS00127,32,4,21.98,28,Presencial,Bebidas frías,0,2,4.3,1.34,0
+HIS00128,35,5,18.64,10,Presencial,Otros,0,1,3.4,1.99,0
+HIS00129,40,5,21.11,20,Delivery,Otros,1,1,4.1,1.39,0
+HIS00130,21,6,30.73,13,Presencial,Café,0,0,4.7,1.76,1
+HIS00131,30,7,27.11,15,Presencial,Café,0,2,4.3,2.54,1
+HIS00132,34,5,17.37,9,Presencial,Café,0,1,3.8,1.49,0
+HIS00133,49,4,26.4,13,Presencial,Café,0,1,4.9,1.45,0
+HIS00134,40,4,25.52,50,Presencial,Café,1,0,4.9,1.41,0
+HIS00135,47,8,8.59,21,Presencial,Café,1,0,5.0,2.85,0
+HIS00136,46,8,17.59,15,Presencial,Café,0,0,4.4,3.15,1
+HIS00137,32,6,15.48,8,Aplicación,Café,1,1,2.9,2.24,1
+HIS00138,40,8,21.25,2,Presencial,Café,1,2,4.1,2.82,1
+HIS00139,27,8,21.68,18,Presencial,Café,1,0,4.4,2.58,1
+HIS00140,18,3,27.56,22,Delivery,Bebidas frías,1,1,4.7,1.01,0
+HIS00141,52,5,13.64,15,Presencial,Café,0,0,3.9,1.77,1
+HIS00142,25,6,27.68,17,Presencial,Café,1,4,4.0,1.65,1
+HIS00143,18,5,19.52,73,Aplicación,Postres,0,1,4.1,1.8,0
+HIS00144,45,5,19.56,15,Presencial,Bebidas frías,1,3,5.0,1.47,1
+HIS00145,30,3,12.27,24,Presencial,Café,0,3,4.5,0.65,1
+HIS00146,47,4,19.04,36,Presencial,Otros,0,1,4.6,1.17,0
+HIS00147,41,3,23.47,25,Presencial,Café,1,5,4.2,0.4,0
+HIS00148,37,6,27.39,5,Delivery,Otros,1,1,4.6,2.28,0
+HIS00149,24,2,13.37,3,Aplicación,Otros,0,4,4.1,0.49,0
+HIS00150,30,4,12.9,22,Presencial,Café,0,3,5.0,1.82,1
+HIS00151,55,7,16.98,28,Presencial,Bebidas frías,1,1,4.3,2.82,1
+HIS00152,37,8,29.62,6,Presencial,Café,0,0,4.7,3.09,1
+HIS00153,27,6,16.28,17,Presencial,Bebidas frías,0,1,3.4,2.32,0
+HIS00154,36,4,22.83,5,Presencial,Café,0,0,4.1,1.3,1
+HIS00155,29,4,28.55,11,Delivery,Café,0,1,4.6,1.53,0
+HIS00156,39,3,10.17,6,Presencial,Otros,0,4,5.0,0.68,0
+HIS00157,24,3,9.27,21,Presencial,Café,1,1,5.0,1.44,0
+HIS00158,37,6,20.82,30,Presencial,Café,0,1,3.7,2.04,0
+HIS00159,25,3,16.26,24,Presencial,Café,0,1,3.8,0.98,1
+HIS00160,26,6,22.92,11,Delivery,Café,0,1,3.9,2.21,0
+HIS00161,29,4,20.02,35,Presencial,Otros,0,0,3.5,1.11,1
+HIS00162,33,9,24.31,24,Presencial,Café,1,1,4.2,3.17,1
+HIS00163,31,3,29.3,17,Presencial,Postres,1,1,4.2,1.23,0
+HIS00164,38,7,32.41,6,Presencial,Café,0,2,4.3,2.55,1
+HIS00165,37,2,18.11,0,Presencial,Postres,1,0,4.4,0.37,1
+HIS00166,44,7,20.19,51,Delivery,Bebidas frías,0,2,3.5,2.33,0
+HIS00167,32,5,11.17,4,Delivery,Café,1,1,4.5,1.28,1
+HIS00168,26,2,16.77,34,Presencial,Café,1,2,4.1,0.87,0
+HIS00169,34,9,19.01,9,Presencial,Otros,0,1,3.0,3.21,1
+HIS00170,39,6,18.71,35,Presencial,Café,0,0,5.0,1.99,0
+HIS00171,18,2,19.43,19,Presencial,Café,1,1,4.3,0.26,1
+HIS00172,43,4,29.69,39,Presencial,Café,1,3,4.0,1.17,0
+HIS00173,41,6,14.82,3,Presencial,Café,0,2,4.1,1.55,1
+HIS00174,44,6,19.39,24,Delivery,Café,1,0,4.0,2.13,1
+HIS00175,30,5,23.6,20,Presencial,Bebidas frías,1,2,4.1,1.86,1
+HIS00176,23,6,15.16,4,Presencial,Bebidas frías,1,1,4.0,1.89,0
+HIS00177,42,4,25.45,45,Delivery,Café,0,6,3.6,1.6,1
+HIS00178,24,4,17.62,31,Delivery,Postres,0,2,4.8,1.1,1
+HIS00179,30,5,14.99,11,Presencial,Café,0,0,4.2,1.37,1
+HIS00180,29,7,25.17,9,Presencial,Café,0,2,4.6,2.35,1
+HIS00181,51,4,16.3,15,Presencial,Café,1,0,4.0,1.26,0
+HIS00182,32,3,15.42,7,Delivery,Café,1,2,5.0,1.04,1
+HIS00183,33,6,32.35,23,Presencial,Café,1,3,4.1,2.12,0
+HIS00184,54,3,26.19,11,Presencial,Café,1,0,4.5,0.97,1
+HIS00185,31,8,13.31,13,Presencial,Café,0,2,4.1,2.57,1
+HIS00186,36,3,23.81,15,Presencial,Bebidas frías,1,0,4.5,1.17,1
+HIS00187,45,7,17.27,6,Presencial,Café,0,1,3.7,2.5,1
+HIS00188,23,4,21.78,7,Delivery,Otros,0,1,3.2,0.83,1
+HIS00189,21,7,16.81,11,Presencial,Postres,0,2,3.9,2.55,0
+HIS00190,22,2,16.1,10,Presencial,Café,1,3,4.2,0.35,0
+HIS00191,24,5,28.05,2,Presencial,Café,0,1,4.7,1.76,1
+HIS00192,41,3,27.59,8,Aplicación,Café,0,1,4.0,1.14,0
+HIS00193,41,4,16.39,32,Presencial,Café,0,2,3.6,0.89,1
+HIS00194,28,5,26.94,17,Presencial,Café,1,2,4.5,1.49,1
+HIS00195,18,5,21.62,30,Presencial,Otros,1,2,4.2,1.02,1
+HIS00196,32,4,20.2,15,Aplicación,Café,1,3,4.3,1.31,1
+HIS00197,51,10,15.88,40,Delivery,Otros,1,2,3.3,3.51,1
+HIS00198,40,9,13.44,21,Delivery,Café,0,1,3.6,3.31,1
+HIS00199,46,2,20.3,20,Delivery,Café,0,2,4.5,0.83,1
+HIS00200,36,7,16.38,26,Aplicación,Otros,0,0,3.6,2.16,0
+HIS00201,38,5,17.66,14,Delivery,Café,0,1,2.9,1.79,1
+HIS00202,28,6,15.73,15,Presencial,Café,1,2,3.3,2.24,1
+HIS00203,51,7,18.05,17,Presencial,Postres,1,0,4.6,2.61,1
+HIS00204,27,4,24.4,12,Aplicación,Café,1,0,4.0,1.18,1
+HIS00205,51,5,25.84,19,Delivery,Café,0,1,4.8,1.68,1
+HIS00206,32,6,17.21,7,Presencial,Bebidas frías,0,1,3.8,2.01,1
+HIS00207,52,2,17.18,20,Presencial,Postres,0,0,2.9,0.77,0
+HIS00208,40,4,15.59,51,Delivery,Café,0,1,4.3,1.3,0
+HIS00209,24,4,22.96,9,Delivery,Café,1,3,4.2,0.99,0
+HIS00210,27,5,25.69,22,Presencial,Postres,0,1,4.6,1.71,0
+HIS00211,58,7,13.52,37,Presencial,Otros,1,1,3.9,2.17,0
+HIS00212,25,7,13.12,42,Presencial,Café,1,2,2.9,1.67,0
+HIS00213,40,7,18.3,7,Aplicación,Café,0,1,4.0,2.27,1
+HIS00214,29,5,26.86,12,Presencial,Café,0,0,4.5,1.79,1
+HIS00215,36,5,19.99,36,Presencial,Café,0,1,4.0,1.93,1
+HIS00216,33,1,13.74,26,Presencial,Café,1,1,4.6,0.2,1
+HIS00217,37,2,25.71,5,Delivery,Café,0,2,4.6,0.94,0
+HIS00218,45,2,16.85,47,Presencial,Café,0,3,4.1,0.69,0
+HIS00219,32,6,19.88,28,Presencial,Café,1,2,4.2,2.04,1
+HIS00220,42,3,16.44,18,Presencial,Café,0,1,3.5,1.21,1
+HIS00221,34,8,15.75,17,Presencial,Café,1,2,4.2,2.51,0
+HIS00222,38,6,15.39,16,Presencial,Bebidas frías,1,2,3.8,1.89,1
+HIS00223,18,8,15.46,10,Delivery,Bebidas frías,0,0,4.9,2.36,1
+HIS00224,28,8,27.37,26,Presencial,Café,0,2,4.1,2.98,1
+HIS00225,43,6,24.93,2,Presencial,Bebidas frías,0,1,5.0,1.89,1
+HIS00226,25,8,18.19,10,Presencial,Bebidas frías,1,1,5.0,2.75,1
+HIS00227,54,7,27.72,18,Presencial,Postres,0,2,4.5,2.55,0
+HIS00228,22,4,21.81,9,Aplicación,Café,1,1,4.6,1.39,0
+HIS00229,19,7,21.53,14,Presencial,Café,0,1,3.7,2.25,1
+HIS00230,31,5,19.58,1,Presencial,Café,0,0,4.2,1.85,1
+HIS00231,44,4,15.01,14,Presencial,Café,1,1,3.8,1.17,0
+HIS00232,18,1,18.96,22,Aplicación,Postres,0,1,4.1,0.36,1
+HIS00233,35,4,27.36,31,Presencial,Café,1,2,4.0,1.42,0
+HIS00234,33,4,27.39,11,Presencial,Bebidas frías,0,3,4.2,1.44,0
+HIS00235,54,5,26.56,4,Delivery,Postres,0,0,3.5,1.83,0
+HIS00236,35,2,29.37,36,Aplicación,Bebidas frías,1,1,4.7,1.16,0
+HIS00237,26,7,18.71,13,Presencial,Bebidas frías,0,2,3.8,2.32,1
+HIS00238,19,5,23.59,13,Aplicación,Café,1,1,4.2,2.02,0
+HIS00239,30,4,26.34,43,Aplicación,Café,1,0,3.1,1.27,0
+HIS00240,35,2,30.2,19,Delivery,Postres,1,3,4.7,0.75,1
+HIS00241,19,5,27.95,8,Presencial,Café,0,1,3.6,1.72,0
+HIS00242,37,2,21.2,5,Presencial,Bebidas frías,0,1,2.7,0.86,0
+HIS00243,31,1,35.37,29,Presencial,Café,1,1,4.7,0.45,1
+HIS00244,51,3,26.76,25,Presencial,Otros,0,0,3.6,1.05,1
+HIS00245,32,5,18.68,24,Presencial,Postres,1,3,4.1,1.55,1
+HIS00246,31,7,14.7,11,Presencial,Bebidas frías,1,1,3.0,2.18,0
+HIS00247,45,10,12.72,41,Presencial,Postres,0,1,4.2,3.41,0
+HIS00248,18,5,26.9,48,Presencial,Café,1,1,4.5,1.73,0
+HIS00249,43,5,19.39,10,Presencial,Café,0,3,4.6,1.7,0
+HIS00250,60,3,23.83,41,Presencial,Postres,1,0,4.5,0.8,0
+HIS00251,18,2,18.24,54,Presencial,Café,1,0,4.1,0.42,0
+HIS00252,34,4,27.39,27,Presencial,Bebidas frías,0,0,3.3,1.59,1
+HIS00253,32,7,20.67,39,Presencial,Postres,1,1,4.0,2.47,1
+HIS00254,55,3,19.41,5,Delivery,Postres,1,1,3.7,1.0,1
+HIS00255,30,5,19.55,36,Presencial,Café,0,2,3.6,1.46,1
+HIS00256,25,3,21.75,13,Presencial,Postres,0,2,4.3,1.12,0
+HIS00257,31,5,25.69,8,Presencial,Otros,0,1,4.3,1.43,1
+HIS00258,30,7,32.71,30,Presencial,Postres,1,0,4.3,2.37,1
+HIS00259,30,4,15.32,4,Presencial,Bebidas frías,1,0,3.3,1.36,1
+HIS00260,51,4,25.38,36,Presencial,Bebidas frías,1,0,4.6,1.63,0
+HIS00261,32,5,17.79,12,Presencial,Café,1,0,3.6,1.74,0
+HIS00262,25,5,19.4,19,Presencial,Café,1,2,3.9,1.68,1
+HIS00263,52,3,12.73,16,Presencial,Café,0,2,3.3,1.2,0
+HIS00264,42,6,18.3,7,Presencial,Otros,0,3,4.1,1.92,1
+HIS00265,33,5,26.8,18,Presencial,Otros,1,0,4.4,1.48,0
+HIS00266,40,1,18.55,10,Presencial,Café,1,5,4.4,0.2,0
+HIS00267,46,7,17.87,47,Presencial,Otros,0,1,4.8,2.46,0
+HIS00268,48,3,26.09,16,Delivery,Café,1,1,3.3,0.87,1
+HIS00269,37,7,19.77,22,Presencial,Café,1,1,3.4,2.87,0
+HIS00270,18,8,18.42,10,Presencial,Bebidas frías,1,1,4.6,3.05,1
+HIS00271,45,6,25.26,26,Presencial,Café,1,1,3.4,1.62,0
+HIS00272,39,6,14.62,23,Presencial,Postres,0,1,4.7,2.1,0
+HIS00273,23,5,27.67,9,Presencial,Postres,1,1,4.1,1.67,1
+HIS00274,22,6,29.42,8,Presencial,Café,0,1,3.7,2.35,1
+HIS00275,30,3,20.61,25,Presencial,Café,0,4,5.0,0.98,1
+HIS00276,49,7,15.92,26,Presencial,Postres,0,3,4.1,2.24,1
+HIS00277,25,3,37.07,4,Presencial,Bebidas frías,1,1,4.5,0.73,1
+HIS00278,38,5,28.81,24,Presencial,Bebidas frías,0,1,4.3,2.16,1
+HIS00279,21,5,25.71,22,Delivery,Otros,1,1,3.6,1.61,1
+HIS00280,41,7,11.38,14,Presencial,Café,1,0,3.2,2.4,0
+HIS00281,26,4,23.07,16,Presencial,Café,0,1,4.4,1.66,1
+HIS00282,32,2,15.3,22,Presencial,Café,1,0,3.4,0.57,0
+HIS00283,34,3,26.83,12,Delivery,Postres,0,2,3.6,0.7,1
+HIS00284,36,3,26.31,6,Aplicación,Café,1,1,4.4,1.06,1
+HIS00285,27,6,23.42,36,Delivery,Café,0,2,4.2,2.43,1
+HIS00286,43,4,20.79,12,Presencial,Bebidas frías,1,0,4.1,0.92,0
+HIS00287,42,5,23.11,7,Aplicación,Café,0,3,4.0,2.2,0
+HIS00288,52,1,14.51,7,Presencial,Postres,0,1,4.1,0.33,0
+HIS00289,18,2,24.74,4,Presencial,Café,1,0,3.7,0.94,1
+HIS00290,46,4,19.23,3,Delivery,Postres,1,1,3.8,1.42,1
+HIS00291,38,5,15.16,22,Presencial,Postres,0,0,3.9,1.46,1
+HIS00292,26,7,29.29,30,Delivery,Café,1,2,4.0,2.62,1
+HIS00293,51,5,19.88,26,Delivery,Café,0,2,3.5,1.05,0
+HIS00294,42,6,19.67,16,Aplicación,Otros,0,1,5.0,1.88,1
+HIS00295,33,3,34.92,21,Presencial,Café,1,0,3.0,1.18,0
+HIS00296,39,4,11.5,25,Presencial,Café,0,1,4.3,1.25,1
+HIS00297,45,5,30.83,8,Presencial,Otros,0,0,3.8,1.2,1
+HIS00298,29,7,24.73,14,Presencial,Café,1,1,4.8,2.34,0
+HIS00299,39,2,15.2,11,Aplicación,Café,0,1,4.9,0.58,0
+HIS00300,40,2,22.45,23,Presencial,Café,1,1,4.1,0.78,0
+HIS00301,24,8,24.67,28,Presencial,Postres,0,0,4.1,2.67,1
+HIS00302,39,3,12.09,10,Presencial,Café,0,1,3.7,0.97,1
+HIS00303,26,6,28.05,3,Presencial,Café,1,2,4.1,1.89,1
+HIS00304,38,5,24.98,16,Delivery,Café,0,2,3.7,1.77,1
+HIS00305,32,4,15.06,10,Presencial,Café,1,0,4.1,1.42,0
+HIS00306,26,4,21.15,15,Presencial,Café,0,3,4.4,1.17,1
+HIS00307,47,5,16.65,47,Aplicación,Café,1,4,4.5,1.91,0
+HIS00308,33,6,9.58,12,Presencial,Postres,1,2,2.4,1.92,1
+HIS00309,18,3,23.22,15,Presencial,Café,1,2,4.0,1.21,1
+HIS00310,40,6,14.41,23,Presencial,Café,0,1,3.9,2.08,0
+HIS00311,18,4,26.58,8,Presencial,Café,0,2,3.2,1.35,0
+HIS00312,58,5,25.13,16,Presencial,Café,1,1,4.9,1.57,1
+HIS00313,24,2,16.36,18,Presencial,Café,1,0,3.9,0.43,1
+HIS00314,40,5,23.33,21,Presencial,Café,0,1,3.8,2.19,1
+HIS00315,32,4,26.02,17,Aplicación,Bebidas frías,0,1,3.7,1.35,1
+HIS00316,47,4,11.65,8,Presencial,Bebidas frías,1,1,4.0,0.91,1
+HIS00317,47,5,26.19,5,Presencial,Otros,0,0,4.0,1.42,1
+HIS00318,43,4,25.65,46,Presencial,Bebidas frías,1,0,4.6,1.1,1
+HIS00319,55,5,28.42,5,Presencial,Café,0,0,4.8,1.43,0
+HIS00320,27,2,28.66,10,Presencial,Café,1,0,2.4,0.5,1
+HIS00321,32,3,21.91,24,Presencial,Café,0,0,4.7,1.22,0
+HIS00322,19,5,18.45,6,Presencial,Bebidas frías,0,2,3.6,1.93,1
+HIS00323,34,6,21.95,22,Presencial,Café,1,1,4.0,2.17,1
+HIS00324,37,7,22.26,8,Delivery,Postres,1,1,4.6,2.23,1
+HIS00325,27,8,21.1,21,Presencial,Café,1,1,3.4,2.64,1
+HIS00326,35,5,25.15,47,Presencial,Café,0,0,4.2,1.48,0
+HIS00327,34,3,21.77,12,Presencial,Bebidas frías,1,0,4.4,0.84,0
+HIS00328,31,7,19.82,3,Presencial,Postres,1,0,4.7,2.38,0
+HIS00329,31,6,15.44,19,Presencial,Café,0,1,3.7,2.04,1
+HIS00330,34,7,18.82,10,Presencial,Café,0,4,3.9,2.28,1
+HIS00331,32,2,33.1,11,Delivery,Otros,1,0,3.9,0.51,0
+HIS00332,49,5,11.01,11,Delivery,Café,0,1,5.0,1.83,1
+HIS00333,31,7,29.2,10,Presencial,Café,1,2,4.3,2.18,1
+HIS00334,40,9,23.78,17,Presencial,Café,1,4,3.6,2.98,1
+HIS00335,23,3,15.24,13,Presencial,Bebidas frías,0,5,4.6,1.51,1
+HIS00336,32,6,18.57,10,Presencial,Café,0,2,3.9,2.16,1
+HIS00337,41,1,18.35,13,Presencial,Café,0,0,3.6,0.21,1
+HIS00338,29,3,17.86,12,Presencial,Café,1,4,4.3,0.83,0
+HIS00339,41,4,29.11,6,Presencial,Café,0,5,3.3,1.06,1
+HIS00340,43,7,21.81,28,Presencial,Café,1,0,4.6,2.22,1
+HIS00341,32,6,32.27,7,Presencial,Café,0,2,4.5,1.78,0
+HIS00342,28,4,13.54,6,Presencial,Postres,1,1,4.5,1.59,0
+HIS00343,40,3,25.93,10,Delivery,Bebidas frías,0,2,5.0,0.73,1
+HIS00344,38,4,22.32,6,Presencial,Postres,1,0,4.3,1.18,1
+HIS00345,38,5,20.64,3,Presencial,Café,0,1,4.1,1.82,0
+HIS00346,18,6,25.97,2,Presencial,Café,0,1,4.7,1.95,1
+HIS00347,41,5,15.0,29,Presencial,Café,1,0,3.6,1.71,0
+HIS00348,23,6,22.58,2,Presencial,Café,0,2,3.7,2.02,1
+HIS00349,35,8,25.54,1,Presencial,Café,1,0,4.2,2.57,1
+HIS00350,32,5,22.06,20,Presencial,Otros,1,3,4.3,1.6,1
+HIS00351,30,7,16.14,1,Presencial,Café,0,2,3.9,2.43,1
+HIS00352,35,5,15.4,5,Presencial,Bebidas frías,1,0,3.6,1.66,1
+HIS00353,37,6,23.21,7,Delivery,Café,0,2,4.2,1.86,0
+HIS00354,30,7,12.16,9,Delivery,Bebidas frías,0,3,3.4,2.45,1
+HIS00355,34,8,23.24,15,Aplicación,Postres,0,1,5.0,2.61,1
+HIS00356,22,7,27.42,42,Presencial,Café,0,2,4.9,2.14,1
+HIS00357,25,5,21.38,18,Presencial,Café,1,1,3.8,1.84,1
+HIS00358,38,5,23.72,24,Delivery,Bebidas frías,0,0,4.1,1.45,0
+HIS00359,28,4,28.04,32,Presencial,Café,1,2,3.5,1.59,0
+HIS00360,21,7,16.25,7,Presencial,Otros,0,2,4.5,2.24,1
+HIS00361,35,7,25.47,10,Aplicación,Café,0,1,4.0,2.63,0
+HIS00362,44,7,16.11,4,Presencial,Café,0,1,3.5,2.28,1
+HIS00363,27,2,15.59,8,Presencial,Café,0,1,4.4,0.73,1
+HIS00364,22,6,21.13,8,Delivery,Otros,1,3,4.1,2.17,1
+HIS00365,35,6,28.78,9,Delivery,Postres,1,2,4.3,2.06,0
+HIS00366,40,5,23.0,27,Presencial,Otros,1,0,3.2,1.69,0
+HIS00367,34,6,27.15,21,Presencial,Café,0,2,3.6,1.78,0
+HIS00368,62,5,18.02,21,Presencial,Café,0,0,4.1,2.02,1
+HIS00369,26,4,10.27,9,Presencial,Café,0,1,4.5,1.28,1
+HIS00370,33,3,25.1,9,Presencial,Café,0,1,3.7,0.96,1
+HIS00371,34,5,23.99,23,Delivery,Café,0,2,4.3,1.93,1
+HIS00372,39,6,29.95,7,Presencial,Café,0,0,4.8,2.35,1
+HIS00373,37,6,20.98,10,Presencial,Café,0,1,4.5,2.05,1
+HIS00374,43,3,20.11,18,Presencial,Café,0,1,3.3,0.8,0
+HIS00375,24,5,19.52,16,Delivery,Café,1,1,4.1,1.68,1
+HIS00376,41,4,21.59,16,Presencial,Café,0,3,4.0,1.44,1
+HIS00377,46,5,39.29,11,Presencial,Café,1,1,3.8,2.23,1
+HIS00378,35,5,18.94,32,Presencial,Bebidas frías,0,5,4.9,1.74,0
+HIS00379,30,2,17.88,34,Presencial,Otros,0,0,3.4,0.7,0
+HIS00380,30,7,21.5,12,Delivery,Café,0,1,4.3,2.1,1
+HIS00381,18,6,26.76,19,Presencial,Bebidas frías,0,1,4.3,1.66,1
+HIS00382,33,2,18.24,30,Presencial,Café,0,1,4.6,0.69,0
+HIS00383,44,5,29.59,45,Presencial,Café,1,3,4.0,1.25,0
+HIS00384,50,6,23.16,14,Presencial,Café,1,2,5.0,2.05,1
+HIS00385,30,10,17.28,10,Presencial,Otros,1,2,4.0,3.48,0
+HIS00386,31,6,23.67,24,Presencial,Café,0,2,4.8,1.79,1
+HIS00387,30,3,23.05,18,Delivery,Café,0,3,4.1,1.16,1
+HIS00388,29,9,35.61,6,Presencial,Café,1,0,3.3,3.32,1
+HIS00389,38,7,29.52,14,Delivery,Bebidas frías,0,0,4.9,2.23,1
+HIS00390,28,6,19.72,24,Aplicación,Café,1,2,3.9,1.97,1
+HIS00391,18,9,20.61,6,Presencial,Café,0,4,4.5,3.3,0
+HIS00392,31,4,8.49,23,Presencial,Café,1,0,4.2,1.74,0
+HIS00393,37,3,20.79,14,Presencial,Café,1,1,5.0,1.34,1
+HIS00394,18,7,20.49,43,Presencial,Café,1,2,3.3,2.63,1
+HIS00395,41,2,22.82,1,Aplicación,Bebidas frías,0,0,4.1,0.81,0
+HIS00396,26,5,22.99,48,Aplicación,Café,0,1,4.6,1.95,0
+HIS00397,41,5,28.41,3,Presencial,Café,1,1,4.9,1.59,0
+HIS00398,39,6,23.22,7,Aplicación,Bebidas frías,1,0,4.6,2.72,1
+HIS00399,28,3,23.57,12,Presencial,Café,1,0,5.0,1.21,0
+HIS00400,32,3,18.16,19,Presencial,Café,0,0,3.8,1.31,1
+HIS00401,32,4,24.98,17,Presencial,Café,0,1,3.8,1.55,1
+HIS00402,41,5,14.75,5,Presencial,Bebidas frías,0,0,3.7,1.78,1
+HIS00403,36,6,23.07,25,Delivery,Postres,0,3,4.1,1.9,1
+HIS00404,32,5,32.15,12,Presencial,Bebidas frías,0,0,4.4,1.75,0
+HIS00405,31,7,31.07,43,Presencial,Bebidas frías,0,0,4.5,2.21,1
+HIS00406,22,6,21.95,8,Presencial,Café,0,2,4.0,1.73,1
+HIS00407,33,5,15.74,25,Presencial,Postres,1,3,3.2,1.62,1
+HIS00408,49,3,15.67,16,Presencial,Postres,0,1,4.0,0.9,0
+HIS00409,39,6,22.41,31,Presencial,Café,0,3,4.0,2.06,0
+HIS00410,44,2,25.37,24,Delivery,Bebidas frías,1,3,3.9,0.99,0
+HIS00411,42,7,22.51,22,Delivery,Postres,0,3,3.9,2.16,1
+HIS00412,38,7,41.88,6,Presencial,Postres,1,0,4.0,2.49,1
+HIS00413,50,4,29.35,9,Presencial,Postres,0,0,3.7,1.3,0
+HIS00414,34,5,10.15,16,Presencial,Café,0,0,3.7,1.67,1
+HIS00415,48,3,18.88,25,Presencial,Postres,0,1,4.5,0.86,0
+HIS00416,41,3,11.93,39,Presencial,Café,0,0,4.0,0.94,0
+HIS00417,49,9,18.73,3,Delivery,Otros,1,1,4.3,3.04,1
+HIS00418,31,1,22.22,6,Presencial,Café,1,4,4.7,0.56,0
+HIS00419,37,6,20.62,12,Presencial,Bebidas frías,1,0,4.6,1.66,1
+HIS00420,30,4,21.95,34,Aplicación,Otros,0,2,3.9,1.1,1
+HIS00421,39,3,27.68,15,Presencial,Café,0,0,4.1,1.32,0
+HIS00422,41,4,27.71,9,Presencial,Bebidas frías,1,0,4.0,1.11,0
+HIS00423,28,7,22.15,37,Presencial,Café,1,2,4.0,2.58,1
+HIS00424,47,6,23.62,18,Presencial,Café,1,2,4.1,2.32,1
+HIS00425,27,7,18.35,4,Presencial,Otros,0,1,4.9,2.71,1
+HIS00426,35,4,20.22,51,Presencial,Café,0,2,3.9,1.19,0
+HIS00427,49,6,18.76,15,Presencial,Café,1,1,4.8,2.21,1
+HIS00428,33,4,19.31,15,Presencial,Café,0,2,4.5,1.44,1
+HIS00429,26,4,28.96,18,Presencial,Café,0,1,2.6,1.47,0
+HIS00430,42,2,25.79,14,Presencial,Bebidas frías,0,1,4.0,0.68,1
+HIS00431,41,4,26.92,15,Presencial,Café,1,1,3.8,1.33,1
+HIS00432,36,6,15.06,9,Presencial,Otros,1,0,4.6,2.3,1
+HIS00433,27,4,25.85,3,Presencial,Café,0,2,4.3,1.56,0
+HIS00434,37,6,28.63,12,Presencial,Postres,1,2,5.0,2.26,1
+HIS00435,25,5,27.0,70,Presencial,Otros,1,1,4.3,1.78,1
+HIS00436,34,7,17.26,27,Aplicación,Café,0,3,3.0,2.14,0
+HIS00437,47,3,36.06,8,Presencial,Café,0,0,4.3,0.51,1
+HIS00438,47,8,28.47,70,Presencial,Café,0,1,3.8,3.18,0
+HIS00439,42,3,33.81,5,Presencial,Café,0,4,3.9,0.73,0
+HIS00440,44,5,24.97,19,Presencial,Café,0,2,3.6,1.94,0
+HIS00441,49,5,29.99,17,Presencial,Café,0,1,4.5,1.6,0
+HIS00442,36,3,24.84,49,Presencial,Bebidas frías,1,1,4.2,1.27,1
+HIS00443,40,5,30.47,29,Presencial,Postres,1,2,4.7,1.64,1
+HIS00444,38,6,26.14,14,Presencial,Postres,1,0,4.8,1.62,0
+HIS00445,29,5,13.1,47,Presencial,Café,0,3,3.2,2.03,0
+HIS00446,25,6,16.76,13,Delivery,Postres,0,2,4.5,2.61,0
+HIS00447,41,4,30.58,7,Presencial,Otros,1,0,4.2,1.36,1
+HIS00448,27,7,25.53,28,Presencial,Café,0,2,4.2,2.2,0
+HIS00449,33,5,17.91,22,Presencial,Café,1,0,3.2,1.76,1
+HIS00450,28,4,22.13,38,Presencial,Café,0,2,3.3,1.13,0
+HIS00451,32,5,27.99,13,Presencial,Postres,1,1,4.5,1.32,1
+HIS00452,46,3,24.05,21,Delivery,Postres,1,0,3.6,1.02,0
+HIS00453,25,7,23.17,31,Presencial,Bebidas frías,0,1,3.9,2.39,0
+HIS00454,47,6,9.07,7,Presencial,Café,0,2,4.1,1.93,1
+HIS00455,33,7,6.0,4,Presencial,Café,1,4,4.7,1.61,1
+HIS00456,48,4,20.07,10,Presencial,Bebidas frías,0,2,4.3,1.22,1
+HIS00457,50,4,18.68,29,Delivery,Otros,1,0,4.2,1.4,1
+HIS00458,31,5,31.74,12,Presencial,Café,0,0,4.4,1.43,1
+HIS00459,28,6,15.68,16,Delivery,Café,0,2,5.0,2.19,1
+HIS00460,29,7,13.83,19,Presencial,Postres,1,3,3.7,2.49,1
+HIS00461,18,6,25.23,5,Presencial,Café,1,0,4.6,1.77,1
+HIS00462,26,5,16.52,45,Presencial,Otros,1,0,4.1,1.15,0
+HIS00463,39,6,16.1,11,Presencial,Café,1,2,3.9,2.41,1
+HIS00464,27,7,17.06,20,Aplicación,Café,1,1,3.7,2.63,1
+HIS00465,23,6,16.01,29,Presencial,Café,0,0,3.8,2.29,1
+HIS00466,18,3,26.75,23,Presencial,Café,1,1,4.2,1.16,1
+HIS00467,37,8,20.47,23,Presencial,Postres,0,1,4.7,2.65,1
+HIS00468,57,5,26.17,45,Presencial,Café,1,0,4.1,1.37,1
+HIS00469,39,5,22.24,22,Presencial,Bebidas frías,1,1,4.8,2.15,1
+HIS00470,27,4,27.75,53,Presencial,Bebidas frías,1,1,5.0,1.53,1
+HIS00471,50,5,15.1,17,Delivery,Bebidas frías,1,2,4.6,1.97,1
+HIS00472,51,7,26.52,24,Presencial,Otros,0,0,4.2,2.48,1
+HIS00473,38,2,24.89,23,Delivery,Café,1,3,3.8,0.55,0
+HIS00474,34,3,22.2,25,Presencial,Bebidas frías,1,2,2.9,0.9,0
+HIS00475,49,2,19.67,30,Delivery,Café,1,1,3.6,0.95,0
+HIS00476,58,7,17.91,20,Presencial,Café,1,2,3.5,2.14,1
+HIS00477,47,7,21.53,35,Presencial,Café,0,3,4.6,2.33,0
+HIS00478,38,6,21.78,18,Presencial,Café,1,1,4.1,1.75,0
+HIS00479,40,4,25.74,8,Delivery,Café,1,2,3.9,1.73,1
+HIS00480,32,6,21.11,33,Presencial,Café,0,1,4.6,1.83,1
+HIS00481,45,3,18.21,9,Presencial,Café,0,0,4.0,1.6,1
+HIS00482,34,4,24.53,15,Presencial,Café,1,3,4.0,1.25,1
+HIS00483,31,6,26.41,16,Aplicación,Postres,1,2,5.0,2.24,1
+HIS00484,27,5,25.47,38,Delivery,Postres,0,1,4.4,1.61,1
+HIS00485,32,1,27.51,24,Delivery,Otros,1,2,4.0,0.59,1
+HIS00486,31,5,21.44,23,Delivery,Café,1,2,3.9,1.53,1
+HIS00487,34,4,17.77,26,Delivery,Postres,0,0,3.5,1.16,0
+HIS00488,38,6,31.93,31,Aplicación,Otros,1,2,3.3,1.98,0
+HIS00489,33,4,28.3,21,Aplicación,Café,1,2,3.3,1.32,1
+HIS00490,65,5,17.85,24,Presencial,Café,0,0,4.6,1.98,0
+HIS00491,29,5,14.67,11,Delivery,Café,1,2,4.5,2.01,0
+HIS00492,56,3,26.44,25,Aplicación,Café,0,4,4.1,1.24,0
+HIS00493,40,6,16.7,11,Presencial,Café,0,1,4.6,1.79,0
+HIS00494,42,4,18.17,5,Presencial,Café,0,0,3.6,0.75,1
+HIS00495,31,4,20.82,2,Presencial,Café,1,0,3.7,1.35,0
+HIS00496,55,1,31.36,38,Aplicación,Bebidas frías,1,2,4.3,0.93,0
+HIS00497,46,5,23.03,16,Delivery,Café,1,0,3.1,1.38,1
+HIS00498,24,8,28.85,31,Presencial,Café,1,1,4.0,3.02,1
+HIS00499,20,4,30.83,10,Presencial,Café,0,1,4.3,1.34,1
+HIS00500,42,7,18.09,8,Delivery,Bebidas frías,0,2,3.9,2.38,1
+HIS00501,54,8,19.66,21,Presencial,Café,0,3,4.4,2.65,1
+HIS00502,32,3,32.73,22,Delivery,Café,0,4,4.3,1.03,1
+HIS00503,43,5,23.63,5,Presencial,Café,1,0,3.8,1.96,0
+HIS00504,32,6,23.92,16,Presencial,Café,0,0,4.2,1.95,1
+HIS00505,43,5,31.12,11,Presencial,Bebidas frías,0,3,4.3,1.6,1
+HIS00506,32,7,29.93,33,Presencial,Café,0,1,4.1,2.84,0
+HIS00507,24,4,26.52,5,Presencial,Otros,0,0,4.5,1.43,1
+HIS00508,36,3,25.38,16,Presencial,Café,0,0,4.8,1.1,1
+HIS00509,32,10,17.96,18,Presencial,Postres,1,4,3.1,3.0,1
+HIS00510,30,6,25.02,21,Delivery,Café,0,1,3.5,1.92,1
+HIS00511,44,4,21.48,25,Presencial,Café,0,0,3.5,1.38,0
+HIS00512,35,6,29.56,3,Presencial,Postres,1,1,4.2,2.02,0
+HIS00513,34,4,20.04,8,Presencial,Otros,0,2,3.7,1.09,1
+HIS00514,32,9,16.85,38,Presencial,Café,0,2,3.8,3.33,1
+HIS00515,31,4,28.56,19,Presencial,Café,0,0,4.1,1.44,1
+HIS00516,18,7,18.7,25,Presencial,Café,0,1,3.8,2.16,1
+HIS00517,42,3,29.09,8,Presencial,Postres,0,0,4.8,1.52,1
+HIS00518,33,2,32.74,2,Aplicación,Otros,1,0,5.0,0.56,0
+HIS00519,37,4,17.71,14,Presencial,Postres,1,4,3.8,1.39,1
+HIS00520,40,2,30.43,17,Presencial,Café,0,2,4.2,0.43,1
+HIS00521,48,4,17.14,19,Aplicación,Café,1,2,3.8,1.25,1
+HIS00522,18,6,13.52,2,Presencial,Otros,1,3,4.5,1.59,1
+HIS00523,26,4,21.59,7,Aplicación,Otros,1,1,3.3,1.19,1
+HIS00524,55,8,25.0,3,Presencial,Bebidas frías,0,1,5.0,2.65,1
+HIS00525,30,4,15.82,20,Presencial,Postres,0,0,5.0,1.53,0
+HIS00526,47,4,13.27,4,Delivery,Café,0,1,3.9,1.04,1
+HIS00527,37,2,20.23,34,Presencial,Café,1,1,5.0,0.49,0
+HIS00528,52,5,21.89,24,Presencial,Postres,1,0,4.8,1.78,1
+HIS00529,50,6,15.03,40,Delivery,Postres,1,1,3.4,1.63,0
+HIS00530,39,2,25.46,7,Presencial,Bebidas frías,0,2,3.5,0.46,1
+HIS00531,33,4,18.38,67,Presencial,Café,0,3,3.6,1.18,0
+HIS00532,31,3,20.13,4,Presencial,Otros,1,0,4.0,1.02,1
+HIS00533,45,4,23.55,21,Presencial,Café,1,0,3.0,1.08,0
+HIS00534,45,4,21.94,37,Presencial,Otros,0,0,4.5,1.12,1
+HIS00535,18,5,30.83,16,Presencial,Postres,0,0,3.1,1.83,1
+HIS00536,47,3,26.66,14,Aplicación,Postres,1,0,3.5,1.0,0
+HIS00537,33,5,23.79,42,Presencial,Bebidas frías,1,3,4.4,1.99,0
+HIS00538,41,4,34.03,4,Presencial,Bebidas frías,1,1,4.0,1.68,1
+HIS00539,26,7,27.33,23,Delivery,Café,1,1,4.9,2.52,1
+HIS00540,40,6,28.26,24,Presencial,Bebidas frías,1,1,5.0,1.91,1
+HIS00541,22,9,28.95,18,Presencial,Café,0,3,4.1,3.09,1
+HIS00542,56,3,23.02,10,Presencial,Café,1,0,5.0,1.24,1
+HIS00543,24,4,22.21,47,Presencial,Bebidas frías,1,2,4.2,1.42,1
+HIS00544,45,5,20.22,39,Presencial,Café,0,1,4.3,1.31,1
+HIS00545,27,4,22.91,14,Presencial,Café,0,1,4.6,1.72,0
+HIS00546,35,5,16.23,10,Presencial,Postres,1,0,4.2,1.59,0
+HIS00547,40,3,21.57,10,Delivery,Postres,1,3,4.3,0.85,1
+HIS00548,51,8,27.44,25,Presencial,Café,1,1,3.8,2.58,0
+HIS00549,24,5,20.25,36,Presencial,Postres,1,2,4.3,1.69,1
+HIS00550,29,3,22.44,4,Presencial,Café,0,0,3.4,1.1,1
+HIS00551,20,6,25.91,17,Presencial,Café,0,1,4.2,2.13,1
+HIS00552,23,4,26.58,7,Presencial,Café,1,3,4.0,1.33,0
+HIS00553,33,2,14.32,23,Aplicación,Café,0,0,3.0,0.83,0
+HIS00554,38,3,16.84,4,Presencial,Postres,1,2,4.4,1.21,0
+HIS00555,34,3,28.75,13,Presencial,Otros,0,0,4.2,1.18,1
+HIS00556,41,8,11.88,11,Presencial,Postres,0,2,2.5,2.72,1
+HIS00557,49,3,26.64,9,Presencial,Café,0,2,4.1,0.82,1
+HIS00558,18,3,18.79,21,Presencial,Café,0,0,4.0,0.85,0
+HIS00559,25,7,23.73,17,Presencial,Postres,1,1,4.4,2.38,1
+HIS00560,36,2,21.34,10,Presencial,Bebidas frías,1,1,3.3,0.62,0
+HIS00561,38,4,25.55,32,Aplicación,Otros,1,1,3.6,1.52,0
+HIS00562,29,5,18.16,36,Presencial,Café,0,2,4.0,1.54,1
+HIS00563,49,4,23.02,23,Delivery,Postres,1,1,3.1,1.4,1
+HIS00564,43,7,18.67,27,Presencial,Postres,1,1,3.4,2.26,0
+HIS00565,52,4,30.25,13,Presencial,Café,1,0,4.2,1.33,1
+HIS00566,36,4,18.77,13,Presencial,Postres,0,0,4.1,1.25,1
+HIS00567,18,8,24.43,30,Presencial,Café,0,2,4.4,2.62,1
+HIS00568,30,7,24.66,30,Delivery,Café,1,1,3.6,2.53,1
+HIS00569,42,9,26.36,22,Aplicación,Café,1,3,5.0,3.24,1
+HIS00570,52,5,31.58,15,Presencial,Café,1,2,5.0,1.07,1
+HIS00571,36,2,12.91,7,Presencial,Otros,1,3,3.8,0.6,1
+HIS00572,37,5,13.55,31,Presencial,Café,1,0,4.3,1.74,0
+HIS00573,23,6,16.54,16,Presencial,Postres,1,1,4.0,1.9,0
+HIS00574,18,4,22.58,26,Presencial,Bebidas frías,0,2,4.1,1.37,0
+HIS00575,38,6,26.45,8,Aplicación,Postres,1,2,3.8,1.95,1
+HIS00576,27,6,16.25,53,Presencial,Postres,0,0,4.6,2.13,0
+HIS00577,34,5,12.54,36,Presencial,Bebidas frías,1,1,4.5,1.81,0
+HIS00578,46,4,15.89,17,Presencial,Café,1,1,4.4,1.33,0
+HIS00579,42,4,14.36,18,Delivery,Café,1,0,3.5,1.21,1
+HIS00580,25,3,21.89,3,Presencial,Café,0,0,4.2,1.26,0
+HIS00581,50,2,25.65,9,Aplicación,Café,1,1,3.9,0.47,1
+HIS00582,42,1,25.48,12,Presencial,Postres,1,0,3.8,0.2,0
+HIS00583,37,3,20.71,11,Presencial,Bebidas frías,0,2,4.3,1.42,0
+HIS00584,34,3,28.88,5,Presencial,Café,1,2,3.7,0.96,1
+HIS00585,41,6,21.7,26,Presencial,Café,1,1,3.7,1.96,0
+HIS00586,32,4,24.73,6,Aplicación,Bebidas frías,0,0,4.3,1.46,1
+HIS00587,21,7,23.82,3,Presencial,Café,0,2,3.7,1.8,1
+HIS00588,23,4,16.16,39,Presencial,Postres,0,2,4.1,1.22,0
+HIS00589,40,6,23.08,34,Delivery,Postres,1,2,4.0,1.84,1
+HIS00590,29,3,25.34,21,Delivery,Bebidas frías,0,2,3.6,0.9,0
+HIS00591,45,3,21.51,35,Presencial,Café,1,0,3.7,1.2,1
+HIS00592,29,3,21.89,23,Presencial,Café,0,0,4.0,1.54,0
+HIS00593,25,1,28.61,21,Presencial,Otros,1,0,4.7,0.21,1
+HIS00594,37,8,21.32,37,Presencial,Café,1,2,3.8,2.78,1
+HIS00595,35,2,26.01,17,Presencial,Café,1,1,4.9,0.62,0
+HIS00596,26,3,27.07,4,Presencial,Postres,1,1,3.2,0.78,0
+HIS00597,23,5,21.37,33,Presencial,Café,1,1,3.2,1.88,1
+HIS00598,22,3,23.88,23,Presencial,Café,1,0,4.4,1.17,0
+HIS00599,44,6,28.47,15,Delivery,Café,0,1,4.8,1.46,1
+HIS00600,37,4,16.59,35,Presencial,Café,0,1,5.0,1.09,1
+HIS00601,46,3,22.68,27,Presencial,Bebidas frías,0,0,3.8,1.27,1
+HIS00602,33,3,27.18,18,Presencial,Bebidas frías,1,1,4.4,0.63,1
+HIS00603,29,5,38.32,7,Presencial,Bebidas frías,1,0,3.3,1.67,1
+HIS00604,56,9,16.82,34,Presencial,Café,1,2,4.3,3.46,1
+HIS00605,33,6,36.28,28,Aplicación,Café,1,2,4.3,2.01,1
+HIS00606,26,8,19.26,24,Presencial,Bebidas frías,1,3,4.5,2.27,0
+HIS00607,37,3,24.25,36,Presencial,Postres,1,0,5.0,1.19,1
+HIS00608,28,5,23.11,44,Presencial,Café,1,1,5.0,1.81,0
+HIS00609,28,3,28.18,13,Aplicación,Café,1,1,4.6,0.83,0
+HIS00610,58,5,13.2,16,Presencial,Bebidas frías,0,0,4.0,1.57,1
+HIS00611,34,7,26.45,17,Presencial,Café,0,0,3.9,2.57,1
+HIS00612,18,3,30.03,7,Presencial,Café,0,2,4.6,1.25,1
+HIS00613,25,6,23.76,31,Delivery,Bebidas frías,1,0,4.5,1.74,1
+HIS00614,35,5,19.55,17,Presencial,Café,1,2,4.5,1.47,1
+HIS00615,41,3,22.47,90,Presencial,Café,1,0,4.1,0.9,0
+HIS00616,43,12,24.32,41,Presencial,Postres,0,1,4.2,4.28,1
+HIS00617,50,5,23.29,12,Presencial,Café,1,1,4.6,1.81,1
+HIS00618,65,2,20.05,38,Delivery,Postres,0,2,4.0,0.42,1
+HIS00619,45,8,24.39,7,Presencial,Café,0,3,3.9,2.89,1
+HIS00620,28,5,17.65,1,Aplicación,Otros,0,1,4.9,1.65,1
+HIS00621,39,7,20.82,16,Delivery,Café,1,0,4.5,2.52,1
+HIS00622,44,4,18.36,23,Aplicación,Café,0,2,4.2,1.11,1
+HIS00623,42,5,22.03,9,Delivery,Bebidas frías,0,0,3.9,2.48,0
+HIS00624,41,10,12.57,9,Presencial,Café,1,0,3.1,3.33,1
+HIS00625,24,8,31.97,29,Presencial,Bebidas frías,1,2,3.4,2.57,1
+HIS00626,41,3,25.27,10,Presencial,Café,1,0,3.3,1.1,0
+HIS00627,20,2,22.3,18,Presencial,Café,1,0,3.3,0.83,0
+HIS00628,30,8,23.48,12,Presencial,Postres,1,1,4.2,2.34,1
+HIS00629,29,3,19.52,8,Presencial,Bebidas frías,0,0,3.5,0.92,1
+HIS00630,46,1,13.46,21,Presencial,Café,0,2,3.7,0.24,0
+HIS00631,34,5,17.92,29,Presencial,Bebidas frías,1,2,4.0,2.03,1
+HIS00632,39,6,15.06,12,Presencial,Café,0,1,4.5,1.8,0
+HIS00633,44,6,32.32,3,Presencial,Café,1,4,4.5,2.17,1
+HIS00634,26,5,22.29,3,Presencial,Postres,1,2,3.7,1.69,1
+HIS00635,37,4,25.57,4,Presencial,Café,0,2,3.5,0.92,1
+HIS00636,18,7,16.21,4,Presencial,Café,0,2,5.0,2.32,1
+HIS00637,34,7,27.38,31,Presencial,Café,1,1,3.7,2.25,1
+HIS00638,39,3,12.5,10,Presencial,Café,0,1,4.0,0.49,1
+HIS00639,28,8,21.29,16,Presencial,Bebidas frías,0,0,4.7,3.3,1
+HIS00640,20,5,25.41,8,Aplicación,Café,1,0,3.4,1.53,1
+HIS00641,22,4,29.11,20,Presencial,Bebidas frías,1,1,3.4,1.1,0
+HIS00642,25,2,29.67,39,Delivery,Café,1,3,3.8,0.5,1
+HIS00643,18,4,22.97,16,Presencial,Café,1,3,4.2,1.09,0
+HIS00644,35,4,20.79,13,Presencial,Café,1,2,3.5,1.28,1
+HIS00645,35,5,32.24,20,Presencial,Café,1,0,4.1,1.73,1
+HIS00646,41,4,27.9,14,Aplicación,Café,0,2,4.7,1.61,1
+HIS00647,37,6,19.19,9,Aplicación,Otros,0,1,5.0,1.99,0
+HIS00648,40,5,16.2,10,Presencial,Café,0,2,3.6,1.84,0
+HIS00649,26,7,27.06,5,Presencial,Postres,0,2,4.3,2.39,1
+HIS00650,18,6,30.12,17,Presencial,Café,1,2,4.2,2.58,1
+HIS00651,30,9,11.41,2,Presencial,Café,1,0,4.8,3.31,1
+HIS00652,25,4,16.78,13,Delivery,Bebidas frías,0,1,3.9,1.28,1
+HIS00653,26,5,28.16,8,Aplicación,Bebidas frías,0,1,5.0,1.88,1
+HIS00654,32,5,27.72,16,Presencial,Café,0,0,4.6,1.43,1
+HIS00655,41,6,20.01,27,Presencial,Bebidas frías,0,0,3.6,1.7,1
+HIS00656,26,2,29.71,30,Presencial,Café,1,1,4.9,0.76,0
+HIS00657,53,7,28.88,13,Presencial,Postres,1,1,3.7,2.25,1
+HIS00658,44,5,15.37,16,Presencial,Café,0,1,4.2,1.94,1
+HIS00659,21,5,15.03,16,Presencial,Café,1,3,4.1,1.33,1
+HIS00660,33,3,24.97,5,Presencial,Café,1,2,4.7,1.18,1
+HIS00661,43,9,25.24,44,Presencial,Postres,0,1,4.7,3.46,1
+HIS00662,45,6,20.5,6,Presencial,Café,0,0,4.8,1.86,1
+HIS00663,25,4,27.62,3,Delivery,Café,1,0,3.7,1.43,0
+HIS00664,30,5,21.15,2,Presencial,Bebidas frías,1,1,3.5,1.42,0
+HIS00665,32,10,22.07,5,Aplicación,Bebidas frías,0,3,4.2,3.06,1
+HIS00666,35,7,20.28,23,Presencial,Café,0,4,3.9,2.67,0
+HIS00667,46,5,23.54,15,Aplicación,Bebidas frías,0,1,3.9,1.61,0
+HIS00668,39,5,23.62,26,Delivery,Café,1,0,3.6,1.57,1
+HIS00669,43,4,15.64,14,Presencial,Café,0,0,4.6,1.64,1
+HIS00670,24,4,14.28,26,Presencial,Café,0,2,4.3,1.28,1
+HIS00671,27,9,25.28,9,Presencial,Café,1,2,3.8,3.45,1
+HIS00672,30,7,20.75,21,Presencial,Bebidas frías,1,3,3.5,2.49,1
+HIS00673,39,4,22.32,30,Presencial,Postres,1,2,4.0,1.78,1
+HIS00674,29,2,34.93,5,Presencial,Bebidas frías,1,0,4.9,0.73,0
+HIS00675,36,6,12.75,5,Presencial,Café,1,2,3.8,1.93,1
+HIS00676,36,4,21.69,24,Delivery,Café,0,2,3.4,1.16,0
+HIS00677,18,6,15.71,24,Presencial,Postres,0,2,3.4,2.2,1
+HIS00678,25,2,23.39,33,Presencial,Café,1,3,4.0,1.0,0
+HIS00679,21,6,24.98,37,Aplicación,Café,1,0,3.5,2.26,1
+HIS00680,34,6,27.81,37,Delivery,Café,1,1,3.3,1.87,0
+HIS00681,34,4,20.48,14,Delivery,Café,1,1,3.3,1.38,0
+HIS00682,27,3,23.59,12,Presencial,Bebidas frías,0,0,4.0,0.61,1
+HIS00683,34,6,30.58,42,Presencial,Café,0,1,4.3,2.14,0
+HIS00684,45,5,22.83,16,Delivery,Café,1,3,3.5,1.62,0
+HIS00685,48,2,11.64,12,Presencial,Café,1,1,3.7,0.71,1
+HIS00686,41,5,21.58,2,Aplicación,Bebidas frías,1,2,4.3,1.53,0
+HIS00687,25,4,28.01,13,Presencial,Bebidas frías,1,1,3.8,1.43,1
+HIS00688,36,4,17.28,40,Aplicación,Café,0,3,4.0,0.9,0
+HIS00689,55,4,15.75,12,Aplicación,Café,1,2,4.8,1.36,1
+HIS00690,39,3,24.49,18,Presencial,Café,1,2,3.7,1.33,0
+HIS00691,33,5,34.67,16,Presencial,Café,0,3,3.6,1.93,0
+HIS00692,36,5,22.2,28,Presencial,Café,0,2,3.3,1.6,0
+HIS00693,39,5,16.33,6,Presencial,Café,1,3,4.2,1.73,1
+HIS00694,45,10,21.88,47,Delivery,Bebidas frías,1,0,3.4,3.15,0
+HIS00695,34,4,22.71,9,Delivery,Postres,1,5,5.0,1.42,1
+HIS00696,46,6,18.98,17,Presencial,Café,1,1,3.3,2.17,0
+HIS00697,48,6,30.15,17,Presencial,Postres,0,1,4.7,2.29,1
+HIS00698,38,5,25.16,3,Presencial,Bebidas frías,0,0,4.2,1.46,1
+HIS00699,48,2,30.81,11,Presencial,Café,0,1,3.0,0.65,0
+HIS00700,53,3,17.46,40,Presencial,Otros,1,2,4.4,1.07,0
+HIS00701,27,3,23.44,8,Presencial,Café,1,1,4.0,0.79,1
+HIS00702,32,6,15.6,23,Presencial,Café,0,2,4.5,1.66,1
+HIS00703,39,5,27.41,23,Presencial,Café,0,1,4.0,1.7,1
+HIS00704,19,4,22.61,11,Presencial,Postres,1,0,4.9,1.4,0
+HIS00705,39,3,28.11,30,Delivery,Café,1,1,4.5,1.06,1
+HIS00706,29,4,25.95,16,Aplicación,Café,1,4,3.8,1.32,1
+HIS00707,22,5,20.67,22,Delivery,Postres,0,0,4.0,1.43,0
+HIS00708,43,5,25.93,17,Presencial,Café,1,2,3.7,1.68,1
+HIS00709,33,9,17.87,16,Presencial,Café,0,1,3.7,3.11,0
+HIS00710,40,6,26.65,42,Presencial,Postres,0,0,4.0,2.08,1
+HIS00711,37,2,23.55,5,Presencial,Postres,1,2,4.0,0.86,0
+HIS00712,45,1,13.5,38,Aplicación,Bebidas frías,1,0,3.9,0.2,0
+HIS00713,25,6,17.2,17,Presencial,Café,0,1,3.0,2.18,0
+HIS00714,39,4,15.84,26,Aplicación,Café,1,0,4.4,1.85,0
+HIS00715,40,6,21.93,13,Presencial,Postres,0,0,4.4,2.38,0
+HIS00716,27,7,21.6,21,Presencial,Otros,0,1,3.7,2.39,0
+HIS00717,19,8,30.26,13,Delivery,Bebidas frías,0,3,3.4,2.72,1
+HIS00718,34,4,28.98,22,Presencial,Café,0,3,3.8,1.59,1
+HIS00719,44,8,27.73,8,Presencial,Café,1,2,4.7,2.29,1
+HIS00720,41,3,21.7,4,Presencial,Bebidas frías,1,0,4.8,1.13,1
+HIS00721,22,4,16.26,61,Presencial,Café,0,1,3.7,1.39,0
+HIS00722,48,5,30.15,26,Presencial,Otros,0,1,3.4,1.87,0
+HIS00723,34,5,24.49,13,Delivery,Bebidas frías,0,4,3.4,1.41,1
+HIS00724,39,4,22.88,17,Delivery,Postres,0,1,4.0,1.18,1
+HIS00725,30,5,26.28,19,Presencial,Postres,1,3,4.5,1.83,0
+HIS00726,48,7,28.82,5,Presencial,Bebidas frías,0,2,4.2,2.47,1
+HIS00727,42,4,28.1,16,Aplicación,Bebidas frías,0,2,5.0,1.08,1
+HIS00728,45,6,21.81,20,Presencial,Café,1,1,4.4,2.36,1
+HIS00729,45,3,17.47,14,Presencial,Café,1,1,3.7,0.75,0
+HIS00730,39,3,27.42,11,Presencial,Café,1,1,3.3,1.02,1
+HIS00731,35,6,18.54,16,Delivery,Bebidas frías,0,0,4.2,1.68,0
+HIS00732,36,3,26.99,5,Aplicación,Bebidas frías,1,1,3.9,1.05,1
+HIS00733,33,7,22.55,11,Presencial,Café,0,3,4.3,2.12,1
+HIS00734,34,5,23.73,7,Presencial,Postres,0,1,3.4,1.93,0
+HIS00735,40,3,22.13,4,Presencial,Café,0,1,4.8,0.92,1
+HIS00736,36,3,22.88,25,Presencial,Postres,0,0,4.3,1.31,1
+HIS00737,37,5,21.75,17,Presencial,Café,1,2,5.0,1.59,0
+HIS00738,33,5,23.66,27,Aplicación,Café,1,0,3.7,2.02,1
+HIS00739,18,6,28.94,6,Presencial,Café,1,1,3.8,1.77,1
+HIS00740,33,3,21.25,13,Presencial,Postres,1,5,3.3,0.91,1
+HIS00741,41,4,36.11,8,Presencial,Café,1,3,4.2,1.54,1
+HIS00742,34,7,31.03,29,Presencial,Postres,1,0,3.7,1.85,0
+HIS00743,30,5,25.2,5,Presencial,Bebidas frías,0,2,4.0,1.67,0
+HIS00744,45,9,28.81,11,Presencial,Café,1,2,4.5,2.94,1
+HIS00745,44,6,31.48,28,Delivery,Café,0,2,4.4,1.89,0
+HIS00746,39,4,17.51,15,Presencial,Café,1,0,4.4,0.65,1
+HIS00747,52,4,27.75,24,Presencial,Otros,0,0,4.5,1.83,1
+HIS00748,44,7,17.02,11,Presencial,Café,1,1,4.0,2.51,1
+HIS00749,36,6,22.73,8,Delivery,Postres,0,0,3.4,2.04,0
+HIS00750,20,2,19.54,13,Presencial,Postres,0,0,4.6,0.2,0
+HIS00751,41,8,21.28,21,Presencial,Café,0,0,3.6,2.72,1
+HIS00752,29,8,18.98,12,Delivery,Postres,1,0,4.1,2.21,1
+HIS00753,30,6,20.07,11,Presencial,Café,0,2,5.0,1.76,0
+HIS00754,33,2,22.16,1,Presencial,Postres,1,2,4.0,0.56,1
+HIS00755,28,8,33.0,5,Presencial,Otros,1,0,4.0,2.24,1
+HIS00756,18,7,17.76,35,Presencial,Café,1,0,4.9,1.98,1
+HIS00757,32,5,13.61,2,Delivery,Café,0,0,4.4,1.84,1
+HIS00758,44,2,18.38,4,Presencial,Café,1,3,4.4,0.4,1
+HIS00759,57,9,31.44,14,Presencial,Postres,1,0,4.8,2.87,1
+HIS00760,37,5,22.3,20,Presencial,Café,0,3,3.1,1.77,0
+HIS00761,39,6,14.43,20,Delivery,Bebidas frías,1,2,3.7,1.86,1
+HIS00762,45,3,19.75,9,Delivery,Café,0,1,3.1,1.21,1
+HIS00763,19,6,13.39,8,Presencial,Café,1,2,3.7,2.37,0
+HIS00764,38,4,12.98,14,Delivery,Café,1,0,5.0,1.47,0
+HIS00765,39,3,17.57,27,Presencial,Café,1,1,3.9,1.26,0
+HIS00766,52,5,19.18,51,Presencial,Café,0,2,3.4,1.51,0
+HIS00767,36,6,27.65,7,Presencial,Café,0,1,3.4,2.03,1
+HIS00768,48,4,30.42,21,Aplicación,Postres,1,4,3.9,1.3,1
+HIS00769,36,8,28.78,42,Delivery,Café,0,2,4.1,2.75,1
+HIS00770,32,5,23.43,13,Presencial,Café,1,1,4.5,1.94,1
+HIS00771,32,7,26.38,4,Presencial,Bebidas frías,0,0,3.8,2.15,1
+HIS00772,27,4,12.82,28,Delivery,Otros,1,2,4.3,1.86,0
+HIS00773,29,2,19.35,5,Delivery,Bebidas frías,0,3,3.4,0.65,1
+HIS00774,38,6,20.0,11,Presencial,Bebidas frías,0,1,4.8,2.17,0
+HIS00775,34,5,33.7,16,Presencial,Café,1,2,3.8,1.64,1
+HIS00776,39,7,22.98,2,Aplicación,Café,1,3,4.6,2.5,1
+HIS00777,37,5,6.0,2,Presencial,Postres,0,2,4.4,1.92,0
+HIS00778,41,3,23.95,12,Aplicación,Café,0,3,4.6,1.14,1
+HIS00779,24,4,32.86,5,Presencial,Bebidas frías,1,1,3.5,1.61,1
+HIS00780,43,4,9.6,8,Presencial,Postres,0,2,3.9,1.08,1
+HIS00781,29,4,22.4,9,Presencial,Café,0,4,4.3,1.49,1
+HIS00782,18,6,23.64,14,Delivery,Café,0,1,3.9,1.86,1
+HIS00783,27,5,11.37,16,Presencial,Bebidas frías,1,0,4.6,1.78,1
+HIS00784,27,7,11.35,16,Presencial,Café,0,0,4.1,2.37,1
+HIS00785,35,9,20.42,9,Presencial,Bebidas frías,0,1,3.4,3.23,1
+HIS00786,38,5,21.27,33,Presencial,Café,1,1,3.2,1.72,1
+HIS00787,44,5,27.58,10,Presencial,Café,1,1,2.5,1.49,1
+HIS00788,25,4,18.86,8,Aplicación,Café,0,1,3.9,1.57,0
+HIS00789,31,7,19.16,19,Presencial,Café,0,0,3.6,2.41,1
+HIS00790,28,3,21.57,10,Delivery,Café,1,4,4.0,0.73,1
+HIS00791,24,5,18.17,19,Presencial,Postres,0,0,3.6,1.33,1
+HIS00792,29,3,18.71,31,Delivery,Postres,1,0,4.4,0.46,0
+HIS00793,33,8,17.68,2,Presencial,Café,0,3,4.3,2.34,1
+HIS00794,35,5,25.32,1,Presencial,Bebidas frías,1,0,3.2,1.6,1
+HIS00795,18,4,24.22,10,Delivery,Bebidas frías,0,1,4.3,1.58,1
+HIS00796,36,5,19.43,3,Presencial,Café,1,2,4.1,1.62,1
+HIS00797,37,6,22.83,7,Presencial,Café,0,0,3.7,1.59,1
+HIS00798,42,4,29.08,21,Delivery,Postres,0,2,3.7,1.5,0
+HIS00799,36,6,9.03,20,Presencial,Café,1,2,3.1,1.58,1
+HIS00800,30,2,21.04,26,Presencial,Postres,0,1,4.6,0.77,1
+HIS00801,38,4,17.38,27,Presencial,Otros,0,0,3.9,1.65,1
+HIS00802,34,3,29.28,29,Presencial,Café,0,1,4.2,1.1,1
+HIS00803,30,4,16.64,24,Presencial,Postres,1,1,4.6,0.97,0
+HIS00804,20,5,24.56,40,Presencial,Café,1,0,3.8,1.74,0
+HIS00805,26,2,18.16,7,Presencial,Café,1,0,3.9,0.48,1
+HIS00806,33,7,18.89,11,Presencial,Café,1,1,3.4,2.21,0
+HIS00807,48,5,7.82,8,Presencial,Café,0,0,4.2,0.99,1
+HIS00808,31,8,24.03,7,Presencial,Postres,0,1,4.7,2.8,1
+HIS00809,25,7,23.24,17,Presencial,Bebidas frías,0,0,4.1,2.32,1
+HIS00810,41,4,14.74,11,Presencial,Café,0,1,3.9,0.57,1
+HIS00811,30,7,29.78,5,Presencial,Postres,0,0,4.8,2.53,1
+HIS00812,31,6,22.39,12,Presencial,Café,1,2,3.4,1.52,1
+HIS00813,41,4,28.15,4,Delivery,Café,1,1,4.7,1.09,1
+HIS00814,29,3,19.54,57,Presencial,Café,1,5,3.4,1.13,0
+HIS00815,25,3,20.24,29,Presencial,Café,0,1,4.4,0.91,0
+HIS00816,37,4,25.75,20,Presencial,Café,0,1,4.3,1.06,1
+HIS00817,47,4,29.96,14,Presencial,Café,1,0,4.5,1.35,1
+HIS00818,18,3,26.07,32,Presencial,Otros,1,2,3.7,0.89,1
+HIS00819,36,3,32.42,11,Presencial,Café,1,2,5.0,0.9,0
+HIS00820,38,3,20.52,2,Presencial,Café,0,0,4.1,1.37,1
+HIS00821,30,5,13.28,4,Presencial,Café,0,2,3.0,1.66,0
+HIS00822,38,6,18.02,29,Presencial,Café,1,1,3.8,2.1,1
+HIS00823,21,4,22.3,27,Delivery,Café,0,1,4.3,1.33,1
+HIS00824,44,4,15.87,6,Presencial,Café,0,1,3.6,1.6,1
+HIS00825,23,7,20.83,39,Presencial,Café,1,2,4.6,2.92,1
+HIS00826,31,1,24.35,24,Delivery,Café,0,0,3.5,0.33,0
+HIS00827,18,4,18.52,19,Presencial,Postres,1,0,3.9,1.16,1
+HIS00828,65,7,25.07,4,Presencial,Café,0,1,3.6,2.42,1
+HIS00829,59,4,12.2,9,Presencial,Postres,1,5,4.3,1.49,1
+HIS00830,36,7,21.82,20,Presencial,Café,0,0,3.9,1.92,0
+HIS00831,46,6,18.63,11,Presencial,Café,1,0,3.8,1.72,1
+HIS00832,45,4,24.95,3,Presencial,Postres,0,3,4.6,1.05,0
+HIS00833,48,3,24.87,37,Presencial,Café,1,1,4.6,0.96,1
+HIS00834,37,9,14.86,20,Presencial,Café,1,2,5.0,2.77,1
+HIS00835,30,5,25.22,31,Aplicación,Postres,1,0,3.7,1.45,1
+HIS00836,51,7,33.77,3,Presencial,Bebidas frías,0,2,3.4,3.06,1
+HIS00837,38,8,22.98,6,Delivery,Café,1,0,3.7,2.67,0
+HIS00838,51,6,16.17,9,Presencial,Postres,1,4,4.2,2.6,1
+HIS00839,28,3,16.16,11,Presencial,Café,1,0,3.9,1.06,1
+HIS00840,50,4,20.97,26,Aplicación,Café,0,1,4.2,1.42,0
+HIS00841,39,6,24.63,28,Presencial,Café,1,1,4.4,2.17,1
+HIS00842,24,5,22.84,24,Presencial,Otros,1,0,4.5,1.94,1
+HIS00843,43,7,7.01,6,Aplicación,Bebidas frías,0,0,4.1,2.03,1
+HIS00844,29,6,25.82,14,Presencial,Bebidas frías,0,0,3.7,2.78,0
+HIS00845,21,4,24.61,17,Delivery,Café,1,2,5.0,1.13,1
+HIS00846,21,7,18.36,20,Presencial,Postres,0,2,5.0,2.53,0
+HIS00847,28,5,34.58,19,Delivery,Postres,1,2,4.2,1.83,0
+HIS00848,36,3,16.28,38,Presencial,Bebidas frías,1,1,4.7,0.82,0
+HIS00849,38,5,23.59,5,Aplicación,Bebidas frías,1,3,3.4,1.73,0
+HIS00850,41,6,16.89,20,Presencial,Café,0,0,4.5,1.44,1
+HIS00851,54,3,30.68,6,Presencial,Café,0,1,4.2,0.84,0
+HIS00852,18,5,26.28,19,Presencial,Bebidas frías,1,3,4.4,1.4,1
+HIS00853,61,5,21.31,9,Presencial,Otros,1,0,5.0,1.2,0
+HIS00854,25,7,17.91,13,Presencial,Postres,0,2,4.0,2.17,1
+HIS00855,30,4,16.23,25,Presencial,Bebidas frías,0,0,3.9,0.9,0
+HIS00856,46,4,30.84,3,Delivery,Postres,0,0,4.6,1.27,1
+HIS00857,33,5,27.86,17,Presencial,Otros,1,1,3.7,1.85,1
+HIS00858,32,3,26.77,14,Aplicación,Café,1,0,4.0,0.54,1
+HIS00859,50,7,13.39,26,Presencial,Café,0,1,3.8,2.51,0
+HIS00860,18,2,17.92,28,Presencial,Postres,1,2,4.4,0.51,1
+HIS00861,37,2,14.74,33,Presencial,Café,1,0,4.0,0.74,0
+HIS00862,24,5,25.94,1,Presencial,Bebidas frías,1,0,3.8,1.62,1
+HIS00863,44,1,32.66,27,Aplicación,Café,1,2,4.2,0.2,1
+HIS00864,29,4,22.71,30,Presencial,Café,0,1,3.9,1.49,0
+HIS00865,37,5,22.58,10,Presencial,Otros,0,0,4.0,1.39,1
+HIS00866,38,8,14.84,27,Presencial,Café,1,1,3.5,2.81,0
+HIS00867,36,4,25.51,14,Presencial,Café,0,0,5.0,1.28,1
+HIS00868,45,4,19.38,33,Presencial,Otros,1,1,4.8,1.38,0
+HIS00869,44,7,19.64,11,Presencial,Café,0,1,4.4,2.33,1
+HIS00870,42,4,11.0,17,Presencial,Otros,0,3,4.0,1.57,1
+HIS00871,51,4,25.33,39,Presencial,Postres,0,0,4.7,1.01,1
+HIS00872,26,3,23.66,37,Delivery,Café,0,2,3.8,0.81,0
+HIS00873,42,4,28.01,33,Presencial,Café,0,1,4.4,1.49,0
+HIS00874,29,9,14.74,6,Delivery,Otros,1,6,4.0,2.94,1
+HIS00875,33,6,23.02,21,Presencial,Café,0,2,4.0,1.76,1
+HIS00876,35,4,12.16,15,Presencial,Bebidas frías,1,3,5.0,1.22,0
+HIS00877,38,3,16.85,17,Presencial,Postres,0,2,3.6,1.1,1
+HIS00878,37,3,28.22,15,Presencial,Café,0,0,3.9,0.99,0
+HIS00879,32,7,22.72,17,Presencial,Postres,1,4,3.4,1.98,1
+HIS00880,18,10,26.57,19,Presencial,Café,0,0,4.6,3.45,1
+HIS00881,38,4,24.16,5,Delivery,Café,1,0,3.5,1.21,0
+HIS00882,35,3,16.26,29,Aplicación,Bebidas frías,0,1,4.7,0.99,0
+HIS00883,35,6,31.65,22,Presencial,Postres,1,1,4.5,1.79,1
+HIS00884,30,6,22.53,10,Presencial,Café,0,1,3.6,1.96,1
+HIS00885,34,7,13.37,11,Aplicación,Café,0,0,5.0,2.52,0
+HIS00886,35,5,18.33,8,Aplicación,Postres,1,1,3.7,1.91,0
+HIS00887,18,5,20.93,21,Presencial,Café,0,2,3.8,1.42,0
+HIS00888,43,4,14.17,3,Presencial,Bebidas frías,0,3,5.0,1.27,0
+HIS00889,18,6,38.6,4,Presencial,Café,1,2,4.4,1.91,1
+HIS00890,22,3,15.69,3,Presencial,Café,0,2,4.7,0.95,1
+HIS00891,61,4,16.4,21,Presencial,Postres,0,1,3.5,1.29,0
+HIS00892,40,5,19.47,1,Presencial,Otros,1,1,4.6,2.11,1
+HIS00893,47,7,22.67,13,Presencial,Café,0,0,4.6,2.1,1
+HIS00894,33,4,22.35,88,Delivery,Café,0,1,4.1,1.26,0
+HIS00895,29,3,16.76,11,Presencial,Café,0,2,4.1,0.94,1
+HIS00896,21,6,16.45,23,Presencial,Café,1,2,4.5,2.25,1
+HIS00897,41,5,17.49,5,Presencial,Café,0,1,4.0,1.96,1
+HIS00898,47,3,24.44,16,Presencial,Postres,1,3,3.8,1.15,1
+HIS00899,23,4,20.06,23,Presencial,Café,1,0,3.4,1.21,0
+HIS00900,32,6,15.47,16,Delivery,Bebidas frías,1,0,4.5,2.09,0
+HIS00901,18,6,29.77,13,Presencial,Bebidas frías,1,0,3.5,2.3,1
+HIS00902,30,10,17.0,22,Presencial,Café,0,0,4.4,3.42,1
+HIS00903,46,3,20.48,17,Presencial,Café,1,1,4.2,1.0,0
+HIS00904,21,4,25.64,5,Presencial,Otros,1,2,5.0,0.93,0
+HIS00905,20,3,17.93,19,Presencial,Postres,1,2,3.4,1.31,1
+HIS00906,43,6,25.93,13,Presencial,Bebidas frías,1,2,4.0,2.25,0
+HIS00907,34,6,28.04,8,Presencial,Café,1,0,4.2,1.81,1
+HIS00908,25,9,20.58,21,Presencial,Café,1,3,3.1,3.32,1
+HIS00909,18,6,27.69,11,Presencial,Café,0,1,4.0,1.7,0
+HIS00910,33,3,24.03,14,Presencial,Café,1,2,4.6,1.16,1
+HIS00911,49,4,33.16,17,Presencial,Bebidas frías,1,4,3.8,1.51,0
+HIS00912,29,3,37.69,20,Delivery,Café,0,0,4.0,0.89,0
+HIS00913,46,8,33.36,15,Presencial,Postres,1,2,5.0,2.74,1
+HIS00914,29,3,20.71,29,Presencial,Postres,0,2,4.3,0.9,1
+HIS00915,35,4,20.18,3,Presencial,Café,1,3,3.6,1.57,1
+HIS00916,38,2,23.44,7,Presencial,Postres,0,2,4.0,0.73,0
+HIS00917,46,5,18.36,16,Presencial,Café,1,0,2.7,1.96,1
+HIS00918,54,10,18.77,10,Presencial,Bebidas frías,1,0,3.3,3.5,1
+HIS00919,39,7,30.69,5,Presencial,Postres,0,1,3.8,2.37,1
+HIS00920,30,6,25.22,20,Aplicación,Café,1,0,5.0,2.12,1
+HIS00921,37,7,17.7,10,Presencial,Bebidas frías,1,2,4.9,2.41,1
+HIS00922,38,3,15.16,25,Presencial,Postres,0,1,5.0,0.38,1
+HIS00923,18,5,21.26,12,Presencial,Café,0,0,5.0,1.65,0
+HIS00924,31,7,15.94,11,Delivery,Otros,0,3,3.7,2.43,1
+HIS00925,37,7,9.78,37,Presencial,Bebidas frías,0,1,3.8,2.59,1
+HIS00926,28,7,11.19,24,Presencial,Café,1,2,4.1,2.53,1
+HIS00927,36,4,24.29,31,Presencial,Café,0,1,2.7,1.84,0
+HIS00928,27,3,24.18,3,Presencial,Café,0,3,4.2,0.81,0
+HIS00929,33,3,26.82,14,Presencial,Café,1,1,3.5,1.49,1
+HIS00930,18,4,17.42,10,Delivery,Postres,0,0,3.9,1.26,1
+HIS00931,44,4,36.08,8,Presencial,Café,0,5,4.7,1.54,1
+HIS00932,53,6,23.76,5,Delivery,Bebidas frías,1,1,3.9,1.82,1
+HIS00933,30,6,19.11,25,Delivery,Café,1,0,4.1,1.59,1
+HIS00934,31,4,21.26,4,Presencial,Bebidas frías,1,1,4.4,1.28,1
+HIS00935,31,5,30.51,10,Presencial,Postres,1,2,3.8,1.56,1
+HIS00936,18,3,24.82,8,Presencial,Café,0,2,5.0,1.41,0
+HIS00937,31,5,35.46,20,Aplicación,Café,1,2,3.6,1.58,1
+HIS00938,44,5,19.37,27,Presencial,Café,1,0,4.3,1.8,0
+HIS00939,37,3,23.04,2,Presencial,Café,0,2,4.3,0.73,1
+HIS00940,35,3,21.13,14,Presencial,Café,0,1,4.3,1.2,0
+HIS00941,35,2,18.64,44,Presencial,Postres,0,4,4.3,0.62,1
+HIS00942,46,4,15.98,23,Presencial,Café,0,2,4.2,1.44,1
+HIS00943,49,7,23.94,16,Presencial,Café,1,1,3.6,2.15,1
+HIS00944,40,8,23.08,9,Delivery,Café,1,3,3.5,2.97,1
+HIS00945,27,9,18.06,22,Presencial,Bebidas frías,1,2,3.8,3.17,1
+HIS00946,31,5,20.33,8,Presencial,Postres,0,1,4.3,1.85,1
+HIS00947,28,5,23.88,20,Presencial,Otros,1,1,4.1,1.37,1
+HIS00948,51,6,25.47,26,Delivery,Café,1,2,4.8,1.9,0
+HIS00949,41,6,21.32,9,Presencial,Postres,0,1,4.1,1.89,1
+HIS00950,18,1,16.96,19,Presencial,Café,1,0,4.1,0.2,0
+HIS00951,30,10,26.04,10,Presencial,Café,1,1,4.4,3.44,1
+HIS00952,33,3,26.77,3,Presencial,Café,0,1,4.8,0.91,1
+HIS00953,37,6,20.79,14,Presencial,Bebidas frías,1,2,3.6,1.68,1
+HIS00954,42,5,30.04,8,Presencial,Café,0,0,2.5,1.88,1
+HIS00955,45,5,14.48,23,Presencial,Café,1,2,3.5,1.76,0
+HIS00956,22,7,27.22,16,Presencial,Café,1,1,4.1,2.3,0
+HIS00957,35,2,25.04,52,Presencial,Bebidas frías,1,2,4.3,0.42,1
+HIS00958,20,6,30.42,9,Presencial,Café,1,1,4.4,1.83,1
+HIS00959,51,7,12.69,14,Presencial,Postres,0,1,4.8,2.18,0
+HIS00960,36,5,24.02,0,Presencial,Café,0,3,3.1,1.85,1
+HIS00961,50,6,28.66,26,Presencial,Café,1,0,4.6,2.4,1
+HIS00962,35,3,26.04,2,Presencial,Café,1,2,4.5,0.83,1
+HIS00963,21,2,16.85,7,Presencial,Café,1,0,4.6,0.75,1
+HIS00964,28,10,24.12,3,Aplicación,Café,0,1,3.6,3.31,1
+HIS00965,18,5,24.11,19,Presencial,Café,0,3,4.1,1.61,1
+HIS00966,24,8,26.12,15,Presencial,Café,1,1,3.5,2.72,1
+HIS00967,18,3,30.17,19,Presencial,Café,0,0,3.3,1.1,0
+HIS00968,33,5,24.18,41,Presencial,Postres,0,1,4.9,1.57,1
+HIS00969,41,7,20.04,9,Presencial,Postres,1,1,4.7,2.06,1
+HIS00970,46,2,25.21,3,Presencial,Café,0,1,4.1,0.49,1
+HIS00971,21,9,24.68,11,Presencial,Bebidas frías,1,1,3.8,3.16,1
+HIS00972,35,4,28.83,9,Aplicación,Café,1,0,4.4,1.32,1
+HIS00973,49,5,23.94,5,Presencial,Bebidas frías,1,0,3.8,1.61,1
+HIS00974,30,8,19.1,27,Presencial,Café,1,4,4.9,2.92,1
+HIS00975,32,4,26.97,6,Aplicación,Postres,1,1,4.7,1.51,0
+HIS00976,34,5,22.28,23,Delivery,Café,1,2,5.0,1.46,1
+HIS00977,33,4,22.13,24,Presencial,Café,0,0,4.2,1.71,1
+HIS00978,28,4,19.52,22,Presencial,Bebidas frías,0,1,3.5,1.4,1
+HIS00979,37,8,17.95,30,Aplicación,Café,0,1,3.8,2.5,0
+HIS00980,32,3,25.2,23,Presencial,Otros,0,2,4.5,0.82,0
+HIS00981,30,6,11.94,31,Presencial,Café,1,0,4.1,1.58,0
+HIS00982,34,5,8.63,16,Delivery,Café,0,1,4.1,1.85,1
+HIS00983,29,4,30.02,3,Presencial,Postres,0,3,3.9,1.45,1
+HIS00984,39,4,28.99,7,Presencial,Café,0,0,3.2,1.6,0
+HIS00985,37,6,24.94,11,Presencial,Postres,1,0,4.2,1.91,0
+HIS00986,31,5,10.15,8,Presencial,Café,0,0,4.5,2.07,0
+HIS00987,43,5,25.93,10,Aplicación,Café,1,2,5.0,1.36,1
+HIS00988,35,3,31.8,28,Presencial,Café,0,4,4.7,1.32,0
+HIS00989,30,6,27.95,11,Presencial,Café,1,0,3.7,2.67,1
+HIS00990,41,6,23.73,25,Presencial,Otros,1,0,3.9,2.48,0
+HIS00991,36,2,23.88,41,Presencial,Café,1,2,3.9,0.49,1
+HIS00992,61,5,28.37,15,Presencial,Café,1,1,4.3,1.78,0
+HIS00993,18,7,14.8,12,Presencial,Café,1,1,4.5,2.38,1
+HIS00994,49,5,12.33,10,Presencial,Café,1,3,4.2,1.64,1
+HIS00995,51,5,28.86,44,Presencial,Bebidas frías,1,0,4.8,1.41,0
+HIS00996,32,5,23.76,5,Presencial,Café,0,0,3.2,1.72,0
+HIS00997,46,8,19.89,9,Presencial,Café,0,1,3.8,2.63,1
+HIS00998,39,3,14.14,17,Presencial,Bebidas frías,1,2,4.2,0.9,1
+HIS00999,36,8,26.19,4,Aplicación,Café,0,1,3.7,3.06,1
+HIS01000,56,5,25.89,13,Presencial,Otros,1,1,4.4,1.71,1
+HIS01001,52,4,29.39,11,Presencial,Café,1,1,4.4,1.25,0
+HIS01002,38,3,21.45,3,Presencial,Café,1,1,3.7,1.22,0
+HIS01003,62,6,29.7,5,Presencial,Café,1,2,5.0,1.74,0
+HIS01004,31,6,25.44,15,Aplicación,Café,1,2,4.6,1.51,1
+HIS01005,40,6,16.35,33,Aplicación,Café,1,3,4.6,2.23,0
+HIS01006,32,7,16.58,40,Presencial,Café,0,2,3.8,2.4,0
+HIS01007,26,2,24.9,4,Aplicación,Postres,1,1,3.8,0.42,1
+HIS01008,31,8,35.29,16,Aplicación,Bebidas frías,0,0,4.1,2.74,0
+HIS01009,26,3,15.26,13,Presencial,Bebidas frías,1,1,3.9,0.95,0
+HIS01010,32,6,25.19,28,Presencial,Bebidas frías,0,0,4.3,1.99,0
+HIS01011,32,3,22.62,24,Delivery,Café,1,1,4.6,1.07,1
+HIS01012,24,7,20.32,18,Delivery,Café,1,1,4.8,2.21,1
+HIS01013,27,8,14.32,8,Presencial,Postres,1,1,3.5,3.37,1
+HIS01014,53,3,25.21,8,Delivery,Otros,0,2,4.8,1.04,0
+HIS01015,28,4,17.71,9,Presencial,Café,1,1,4.6,1.69,0
+HIS01016,38,4,21.08,9,Presencial,Café,1,2,4.1,1.37,1
+HIS01017,18,6,20.5,10,Delivery,Café,1,2,4.8,1.64,0
+HIS01018,43,6,23.56,11,Presencial,Bebidas frías,1,3,3.8,1.68,1
+HIS01019,29,7,37.83,27,Delivery,Postres,1,1,3.8,1.64,1
+HIS01020,37,5,21.97,1,Presencial,Bebidas frías,0,0,4.5,1.56,0
+HIS01021,32,4,17.17,25,Presencial,Café,0,1,4.0,1.14,0
+HIS01022,56,5,24.82,10,Presencial,Postres,0,1,4.4,2.17,1
+HIS01023,39,4,13.26,11,Delivery,Café,0,2,3.8,1.17,1
+HIS01024,38,6,22.41,16,Presencial,Postres,1,0,3.5,2.03,0
+HIS01025,33,4,16.84,1,Presencial,Café,0,0,4.2,1.57,1
+HIS01026,33,8,22.95,23,Presencial,Café,0,0,4.4,2.49,1
+HIS01027,38,6,18.71,8,Presencial,Otros,1,4,2.9,2.46,0
+HIS01028,35,2,21.58,8,Presencial,Otros,0,0,3.5,0.79,1
+HIS01029,41,6,31.58,17,Aplicación,Postres,0,2,4.1,2.02,1
+HIS01030,36,7,20.05,12,Presencial,Bebidas frías,0,2,4.3,2.54,1
+HIS01031,37,2,16.77,11,Aplicación,Postres,1,2,4.2,0.73,1
+HIS01032,44,6,31.4,48,Presencial,Café,1,1,4.3,2.0,0
+HIS01033,32,4,18.92,9,Presencial,Café,1,1,4.2,1.78,0
+HIS01034,25,7,21.65,14,Presencial,Café,0,0,4.0,2.45,1
+HIS01035,38,4,27.05,17,Presencial,Café,0,1,5.0,2.18,1
+HIS01036,36,3,26.99,38,Presencial,Café,1,0,4.1,0.98,0
+HIS01037,37,3,26.23,20,Delivery,Café,1,1,4.1,0.97,1
+HIS01038,51,8,17.77,4,Delivery,Café,0,2,3.4,2.39,1
+HIS01039,18,4,17.79,6,Presencial,Bebidas frías,1,2,2.8,1.61,1
+HIS01040,36,3,11.02,24,Presencial,Bebidas frías,0,0,4.0,1.2,1
+HIS01041,48,8,18.95,24,Presencial,Bebidas frías,1,0,4.1,2.85,1
+HIS01042,33,1,20.02,32,Presencial,Café,1,0,4.7,0.5,0
+HIS01043,35,6,25.89,49,Presencial,Bebidas frías,1,0,3.9,1.78,0
+HIS01044,20,4,12.76,11,Presencial,Café,0,0,4.7,1.3,1
+HIS01045,39,4,19.31,18,Presencial,Postres,0,0,4.7,1.19,1
+HIS01046,19,3,16.37,14,Presencial,Bebidas frías,1,2,4.7,1.38,1
+HIS01047,44,8,21.54,9,Presencial,Café,1,2,5.0,2.16,1
+HIS01048,25,8,14.72,19,Presencial,Postres,1,1,3.8,2.71,1
+HIS01049,41,6,28.42,11,Aplicación,Café,0,1,4.5,2.28,0
+HIS01050,39,10,17.95,29,Presencial,Café,1,1,4.8,3.56,0
+HIS01051,41,6,15.57,2,Presencial,Café,0,0,4.4,2.09,1
+HIS01052,32,6,26.42,29,Presencial,Postres,0,1,3.1,2.12,1
+HIS01053,28,5,21.83,11,Presencial,Café,1,1,4.9,1.8,1
+HIS01054,26,3,27.12,16,Presencial,Café,1,2,3.9,0.91,1
+HIS01055,47,3,21.81,35,Delivery,Café,1,1,4.4,0.84,0
+HIS01056,40,3,19.66,5,Presencial,Otros,1,1,3.9,1.47,0
+HIS01057,22,3,25.72,26,Presencial,Café,0,1,4.0,0.93,0
+HIS01058,27,4,18.22,43,Presencial,Café,0,1,4.6,1.02,0
+HIS01059,41,5,22.1,33,Presencial,Bebidas frías,0,2,4.3,1.4,0
+HIS01060,41,7,27.12,46,Presencial,Otros,0,1,3.7,2.49,0
+HIS01061,40,5,22.66,8,Presencial,Café,0,0,4.2,1.85,1
+HIS01062,30,8,29.76,19,Delivery,Café,1,3,4.6,2.48,1
+HIS01063,39,4,21.66,16,Presencial,Postres,1,1,3.8,1.17,1
+HIS01064,37,9,26.99,4,Presencial,Postres,0,4,3.6,3.03,1
+HIS01065,30,7,11.42,59,Aplicación,Café,0,2,3.9,2.4,0
+HIS01066,18,6,27.46,8,Presencial,Café,1,1,3.8,2.43,1
+HIS01067,52,5,15.62,9,Presencial,Postres,1,0,4.7,1.82,1
+HIS01068,18,3,18.81,25,Presencial,Café,0,1,4.6,0.84,1
+HIS01069,37,9,35.1,27,Presencial,Café,0,1,3.8,2.94,0
+HIS01070,45,8,25.09,29,Presencial,Café,1,0,4.0,2.42,0
+HIS01071,18,3,29.91,3,Presencial,Café,0,3,4.2,1.23,1
+HIS01072,24,4,21.61,26,Presencial,Café,1,2,3.9,1.03,0
+HIS01073,21,4,21.37,10,Aplicación,Café,1,1,3.5,1.66,1
+HIS01074,53,7,34.76,25,Delivery,Café,1,3,4.1,2.34,1
+HIS01075,26,5,21.3,10,Presencial,Café,0,1,3.9,1.69,1
+HIS01076,31,9,23.33,4,Delivery,Café,0,1,4.5,3.09,1
+HIS01077,26,7,10.35,14,Presencial,Postres,1,1,4.0,2.58,1
+HIS01078,55,6,10.42,7,Aplicación,Café,0,1,4.4,2.41,0
+HIS01079,32,7,16.61,32,Presencial,Bebidas frías,1,0,5.0,2.11,0
+HIS01080,33,5,25.31,13,Aplicación,Café,0,1,3.9,1.51,1
+HIS01081,35,8,22.32,13,Presencial,Postres,0,2,4.2,2.3,0
+HIS01082,49,2,27.21,7,Presencial,Otros,1,2,4.2,1.13,0
+HIS01083,36,3,27.06,4,Presencial,Café,0,1,4.3,1.15,0
+HIS01084,52,5,16.88,19,Presencial,Café,0,0,4.1,1.52,1
+HIS01085,36,4,25.15,24,Presencial,Café,1,2,4.2,1.22,0
+HIS01086,47,7,28.78,22,Presencial,Café,1,0,4.5,2.58,0
+HIS01087,20,4,19.53,34,Presencial,Café,0,1,3.9,1.56,0
+HIS01088,40,2,28.79,8,Presencial,Otros,1,1,4.2,0.74,1
+HIS01089,36,5,19.96,32,Presencial,Café,1,1,3.3,1.68,0
+HIS01090,25,5,15.73,19,Presencial,Postres,1,1,3.8,1.67,1
+HIS01091,45,9,26.34,24,Presencial,Café,1,0,3.9,3.06,1
+HIS01092,27,9,26.45,36,Presencial,Bebidas frías,0,2,3.9,2.47,1
+HIS01093,39,5,18.15,5,Presencial,Café,0,1,5.0,1.9,1
+HIS01094,38,5,19.74,9,Presencial,Café,0,2,3.4,1.25,1
+HIS01095,30,5,24.33,20,Presencial,Café,0,1,3.8,2.02,1
+HIS01096,36,7,15.12,12,Presencial,Café,1,1,3.4,1.96,1
+HIS01097,47,6,14.89,3,Presencial,Café,0,2,3.8,1.83,1
+HIS01098,29,5,18.47,29,Delivery,Bebidas frías,1,1,3.1,1.03,1
+HIS01099,36,6,28.03,5,Presencial,Café,1,2,3.8,1.99,1
+HIS01100,31,3,31.27,17,Aplicación,Bebidas frías,1,1,2.9,1.35,0
+HIS01101,32,3,31.03,9,Presencial,Bebidas frías,0,1,5.0,0.76,1
+HIS01102,36,6,34.15,14,Presencial,Otros,0,0,4.7,1.95,1
+HIS01103,42,3,15.22,32,Delivery,Postres,1,1,4.4,0.68,1
+HIS01104,34,6,6.0,38,Delivery,Postres,0,0,4.2,1.83,1
+HIS01105,43,3,20.5,14,Presencial,Café,1,2,4.2,1.03,1
+HIS01106,38,7,12.5,41,Presencial,Otros,0,2,4.7,2.24,1
+HIS01107,26,3,16.53,7,Presencial,Café,0,1,4.4,1.07,1
+HIS01108,47,8,21.78,29,Aplicación,Café,1,1,4.9,2.66,0
+HIS01109,38,2,22.2,30,Aplicación,Café,0,2,3.9,0.88,1
+HIS01110,43,3,19.76,19,Presencial,Bebidas frías,1,3,3.6,0.56,1
+HIS01111,37,7,17.44,11,Presencial,Café,1,0,4.4,2.28,1
+HIS01112,22,5,17.03,18,Aplicación,Bebidas frías,0,0,4.6,1.38,1
+HIS01113,45,3,18.63,44,Presencial,Bebidas frías,0,0,4.6,1.0,0
+HIS01114,45,4,11.05,21,Presencial,Café,0,2,3.8,1.31,1
+HIS01115,51,6,23.52,46,Presencial,Café,0,2,4.2,2.04,1
+HIS01116,49,3,21.48,7,Presencial,Café,1,0,4.1,0.63,0
+HIS01117,33,5,27.92,10,Presencial,Café,0,1,4.6,1.42,1
+HIS01118,35,4,32.83,20,Delivery,Café,1,1,4.2,1.43,1
+HIS01119,30,5,20.0,25,Aplicación,Café,0,0,4.3,1.68,1
+HIS01120,42,7,26.89,5,Aplicación,Bebidas frías,1,1,4.0,2.2,1
+HIS01121,40,3,28.07,6,Presencial,Café,1,1,4.4,1.12,1
+HIS01122,18,8,24.04,36,Presencial,Café,0,2,3.8,2.48,1
+HIS01123,36,14,11.77,9,Presencial,Café,0,2,3.5,4.03,1
+HIS01124,34,4,22.41,12,Presencial,Bebidas frías,1,1,4.4,1.54,0
+HIS01125,31,3,16.45,21,Delivery,Bebidas frías,1,2,4.0,0.87,0
+HIS01126,41,3,35.74,2,Presencial,Postres,0,2,3.3,1.3,0
+HIS01127,33,3,30.83,16,Presencial,Café,1,1,3.3,0.71,0
+HIS01128,28,5,21.99,34,Presencial,Café,0,1,4.1,1.44,0
+HIS01129,33,4,23.26,14,Aplicación,Café,0,2,4.9,1.69,1
+HIS01130,39,3,31.78,11,Aplicación,Postres,1,0,4.1,0.69,0
+HIS01131,44,5,22.54,13,Presencial,Café,1,1,4.5,1.74,0
+HIS01132,48,4,10.75,35,Presencial,Bebidas frías,0,2,3.9,1.68,0
+HIS01133,39,8,26.47,7,Presencial,Café,1,4,3.8,2.6,1
+HIS01134,37,4,17.61,16,Presencial,Otros,0,0,4.7,1.09,0
+HIS01135,27,5,28.76,18,Presencial,Postres,1,0,4.2,1.59,1
+HIS01136,19,13,18.78,7,Presencial,Café,0,0,4.6,4.73,1
+HIS01137,36,3,24.97,17,Presencial,Bebidas frías,1,1,4.3,1.12,1
+HIS01138,41,10,20.44,15,Aplicación,Bebidas frías,0,4,4.5,3.27,1
+HIS01139,46,4,25.58,4,Presencial,Café,1,0,5.0,1.53,0
+HIS01140,20,4,17.91,27,Aplicación,Otros,0,2,3.5,1.23,1
+HIS01141,18,3,20.46,16,Presencial,Café,0,0,3.9,0.28,1
+HIS01142,59,6,23.99,23,Presencial,Otros,0,2,3.0,1.71,1
+HIS01143,36,3,31.45,19,Presencial,Café,0,2,4.1,0.56,1
+HIS01144,50,3,35.31,20,Presencial,Café,1,0,4.4,1.01,1
+HIS01145,55,3,28.19,5,Aplicación,Postres,1,0,4.4,1.03,1
+HIS01146,37,3,26.94,7,Presencial,Café,0,0,4.2,1.18,0
+HIS01147,30,7,15.95,6,Presencial,Postres,1,1,4.1,2.34,1
+HIS01148,25,10,12.74,16,Presencial,Postres,0,0,4.7,3.72,0
+HIS01149,43,5,15.4,8,Aplicación,Bebidas frías,0,3,3.4,1.69,1
+HIS01150,20,8,26.17,14,Presencial,Postres,0,1,3.6,2.47,1
+HIS01151,52,3,22.02,18,Presencial,Café,0,3,2.9,0.85,0
+HIS01152,39,3,20.46,40,Delivery,Café,0,1,3.4,0.82,0
+HIS01153,33,5,30.98,10,Delivery,Postres,1,0,3.8,1.67,1
+HIS01154,27,9,23.2,1,Aplicación,Bebidas frías,1,2,4.8,3.46,1
+HIS01155,35,3,20.79,38,Presencial,Café,0,0,4.7,1.39,0
+HIS01156,37,5,25.19,10,Delivery,Café,0,1,4.5,1.67,1
+HIS01157,20,6,30.78,2,Presencial,Bebidas frías,0,1,3.3,1.82,1
+HIS01158,42,7,12.32,9,Aplicación,Café,1,0,4.9,1.94,0
+HIS01159,31,3,30.87,7,Presencial,Bebidas frías,0,0,3.2,1.01,1
+HIS01160,35,4,10.26,5,Presencial,Bebidas frías,1,0,3.5,1.15,0
+HIS01161,25,8,19.19,30,Delivery,Postres,1,1,3.3,2.5,1
+HIS01162,27,4,31.3,17,Presencial,Café,0,2,4.7,1.52,1
+HIS01163,29,7,20.39,45,Presencial,Postres,0,0,3.5,2.29,0
+HIS01164,57,7,27.11,9,Presencial,Café,0,1,4.2,2.46,1
+HIS01165,39,6,25.75,2,Presencial,Otros,0,1,4.1,2.33,1
+HIS01166,33,5,9.84,11,Presencial,Café,0,0,4.1,1.54,1
+HIS01167,42,8,18.42,14,Presencial,Café,0,2,3.6,2.48,1
+HIS01168,31,5,26.33,31,Presencial,Postres,0,1,2.3,1.82,1
+HIS01169,40,4,16.79,12,Presencial,Café,1,0,4.7,1.71,0
+HIS01170,31,5,9.02,17,Presencial,Postres,1,1,4.3,1.4,1
+HIS01171,32,7,27.57,7,Aplicación,Café,1,1,4.0,2.48,1
+HIS01172,57,4,22.2,13,Presencial,Otros,0,1,4.4,1.31,0
+HIS01173,24,6,24.21,47,Presencial,Café,0,0,4.0,2.04,1
+HIS01174,29,5,14.62,8,Presencial,Café,1,1,4.6,1.73,0
+HIS01175,38,6,18.34,10,Presencial,Café,1,3,4.2,1.79,1
+HIS01176,44,4,21.26,18,Presencial,Café,1,3,4.3,1.35,1
+HIS01177,28,6,13.57,11,Presencial,Café,0,1,4.7,2.01,1
+HIS01178,52,4,23.24,14,Delivery,Café,1,2,5.0,1.76,1
+HIS01179,36,6,17.12,9,Presencial,Café,1,2,4.1,2.22,1
+HIS01180,40,4,25.9,37,Presencial,Café,0,0,3.8,1.24,0
+HIS01181,43,2,29.81,11,Presencial,Café,0,4,3.8,0.74,1
+HIS01182,46,5,18.8,33,Presencial,Café,0,2,4.0,1.57,1
+HIS01183,18,4,27.84,3,Presencial,Postres,0,1,4.2,1.26,0
+HIS01184,26,6,17.96,23,Presencial,Postres,1,2,4.4,2.17,1
+HIS01185,26,5,27.36,3,Delivery,Café,1,3,5.0,1.56,1
+HIS01186,38,3,19.58,17,Presencial,Café,1,0,5.0,1.02,0
+HIS01187,49,6,18.19,24,Presencial,Café,0,1,3.8,1.86,1
+HIS01188,29,2,24.02,14,Presencial,Café,0,3,3.5,0.6,1
+HIS01189,38,6,22.34,27,Presencial,Café,0,4,4.0,2.21,1
+HIS01190,18,2,28.95,11,Presencial,Café,1,0,5.0,0.89,1
+HIS01191,40,4,29.03,10,Presencial,Otros,0,1,4.3,1.41,1
+HIS01192,28,6,17.19,4,Presencial,Postres,1,1,3.9,2.21,1
+HIS01193,34,4,15.21,6,Presencial,Café,1,3,4.2,1.08,1
+HIS01194,25,8,17.34,14,Aplicación,Postres,1,0,4.4,3.05,1
+HIS01195,37,6,10.2,19,Presencial,Café,1,0,4.4,2.34,1
+HIS01196,45,2,23.24,15,Presencial,Postres,0,1,4.6,1.03,1
+HIS01197,34,4,21.37,12,Presencial,Bebidas frías,0,0,4.4,1.14,1
+HIS01198,37,5,20.24,2,Presencial,Postres,1,2,3.5,1.49,1
+HIS01199,38,7,13.38,23,Delivery,Café,0,4,3.4,2.36,1
+HIS01200,45,5,22.86,14,Presencial,Café,1,1,5.0,1.79,0
+HIS01201,26,5,16.96,32,Presencial,Otros,0,1,4.7,1.64,1
+HIS01202,20,6,22.09,37,Aplicación,Café,1,2,4.5,2.03,1
+HIS01203,34,5,20.08,10,Aplicación,Café,1,0,4.2,1.8,1
+HIS01204,43,8,30.91,29,Presencial,Café,1,0,4.6,2.92,0
+HIS01205,43,7,17.21,15,Presencial,Bebidas frías,0,0,3.1,1.99,1
+HIS01206,34,5,17.54,7,Aplicación,Café,1,1,5.0,1.59,1
+HIS01207,45,7,29.56,19,Presencial,Otros,1,0,4.5,2.54,1
+HIS01208,39,4,31.44,29,Presencial,Café,1,2,4.1,1.36,0
+HIS01209,39,3,33.23,19,Delivery,Café,0,0,3.6,0.84,1
+HIS01210,38,10,30.78,37,Presencial,Café,0,1,4.3,3.53,0
+HIS01211,37,4,28.65,17,Presencial,Café,1,1,4.3,1.31,1
+HIS01212,58,4,22.81,20,Presencial,Café,0,2,4.0,1.4,0
+HIS01213,54,6,15.12,8,Presencial,Postres,0,2,3.1,1.53,0
+HIS01214,43,2,22.76,8,Presencial,Café,0,1,4.6,0.2,1
+HIS01215,24,6,19.96,4,Presencial,Otros,0,1,4.8,1.62,1
+HIS01216,44,6,27.97,24,Delivery,Café,1,3,4.7,1.9,1
+HIS01217,32,2,24.61,10,Aplicación,Café,0,2,3.8,0.6,0
+HIS01218,40,7,30.21,5,Delivery,Postres,1,4,4.2,2.28,1
+HIS01219,49,2,19.5,10,Presencial,Postres,0,1,3.3,0.5,1
+HIS01220,47,6,23.64,29,Presencial,Postres,1,1,4.6,1.66,0
+HIS01221,39,7,25.32,6,Presencial,Bebidas frías,1,2,4.6,2.84,1
+HIS01222,39,2,8.06,30,Aplicación,Bebidas frías,0,1,2.8,0.5,0
+HIS01223,45,3,24.85,64,Presencial,Bebidas frías,1,1,3.6,0.78,0
+HIS01224,44,4,16.12,8,Delivery,Café,1,0,5.0,1.51,1
+HIS01225,48,5,14.0,7,Presencial,Postres,1,1,4.5,1.68,1
+HIS01226,43,3,28.71,19,Presencial,Café,0,0,4.2,0.79,0
+HIS01227,24,4,18.58,5,Presencial,Café,0,2,5.0,1.42,1
+HIS01228,44,5,28.75,7,Aplicación,Café,0,3,4.4,1.85,1
+HIS01229,28,2,32.26,28,Presencial,Café,0,2,3.9,0.51,0
+HIS01230,61,7,20.44,2,Presencial,Postres,1,2,4.5,2.11,1
+HIS01231,37,6,23.11,9,Delivery,Café,0,1,3.9,2.09,1
+HIS01232,30,7,17.65,6,Presencial,Café,1,3,4.0,2.24,1
+HIS01233,24,3,32.77,10,Presencial,Café,1,0,3.7,1.09,1
+HIS01234,20,4,28.99,18,Presencial,Bebidas frías,0,0,4.8,0.6,1
+HIS01235,24,2,28.12,23,Presencial,Café,0,5,3.5,0.53,1
+HIS01236,40,7,22.91,9,Presencial,Café,0,0,4.4,2.47,0
+HIS01237,31,5,21.96,15,Presencial,Postres,1,2,3.6,1.52,1
+HIS01238,31,1,17.51,46,Presencial,Postres,1,1,4.8,0.2,0
+HIS01239,31,2,35.46,1,Presencial,Postres,1,2,4.0,1.14,0
+HIS01240,23,4,8.34,15,Presencial,Otros,1,2,4.8,1.49,1
+HIS01241,44,3,16.26,28,Presencial,Otros,0,0,4.0,0.76,1
+HIS01242,42,4,32.9,22,Presencial,Café,1,0,3.9,1.44,1
+HIS01243,31,2,12.61,10,Delivery,Bebidas frías,0,1,4.4,0.51,0
+HIS01244,40,2,12.24,7,Presencial,Café,0,0,4.0,0.64,0
+HIS01245,20,3,21.64,27,Aplicación,Bebidas frías,0,2,5.0,1.29,1
+HIS01246,39,4,16.69,5,Presencial,Postres,0,1,3.6,1.05,1
+HIS01247,53,7,19.17,32,Presencial,Café,0,5,4.8,1.8,1
+HIS01248,48,5,23.85,2,Aplicación,Café,1,0,3.7,1.93,1
+HIS01249,44,3,23.13,20,Aplicación,Café,1,0,4.1,0.96,1
+HIS01250,41,7,21.58,24,Delivery,Café,0,3,4.9,2.43,0
+HIS01251,35,5,27.86,21,Presencial,Postres,0,3,4.9,1.7,1
+HIS01252,53,3,22.67,17,Presencial,Otros,0,0,4.2,0.78,0
+HIS01253,38,2,25.14,9,Presencial,Café,1,2,3.5,0.49,1
+HIS01254,25,8,15.85,17,Aplicación,Café,0,1,4.1,2.4,0
+HIS01255,29,8,10.97,17,Presencial,Café,1,2,3.0,2.86,0
+HIS01256,33,6,35.96,14,Presencial,Café,0,2,4.2,2.21,1
+HIS01257,32,4,20.6,23,Delivery,Café,0,2,3.5,1.51,0
+HIS01258,34,6,22.22,0,Delivery,Postres,1,0,4.4,2.28,1
+HIS01259,18,4,27.73,21,Presencial,Café,1,1,4.3,1.33,1
+HIS01260,18,2,18.29,8,Presencial,Café,0,1,3.9,0.82,1
+HIS01261,18,4,21.38,12,Aplicación,Otros,0,0,4.3,1.3,0
+HIS01262,37,8,26.75,32,Presencial,Bebidas frías,0,1,3.2,2.56,0
+HIS01263,20,6,16.77,21,Delivery,Postres,0,1,4.5,2.21,0
+HIS01264,36,5,24.52,11,Presencial,Café,1,1,3.2,1.35,1
+HIS01265,40,7,29.02,8,Presencial,Café,0,1,4.2,2.34,1
+HIS01266,25,9,24.13,44,Presencial,Postres,0,1,3.7,2.69,0
+HIS01267,30,8,21.28,7,Aplicación,Bebidas frías,0,0,4.6,2.83,1
+HIS01268,30,13,11.27,6,Presencial,Café,1,2,4.8,4.31,1
+HIS01269,39,8,24.48,8,Presencial,Otros,1,0,4.5,2.64,1
+HIS01270,18,6,16.62,19,Presencial,Café,1,1,4.1,2.2,1
+HIS01271,32,3,28.95,14,Presencial,Café,1,1,3.3,1.22,1
+HIS01272,49,2,23.59,20,Presencial,Café,1,3,4.1,0.76,0
+HIS01273,45,5,6.0,50,Presencial,Café,1,1,4.3,1.4,0
+HIS01274,34,5,20.36,18,Aplicación,Café,1,2,4.5,1.39,1
+HIS01275,27,5,20.44,21,Presencial,Café,1,0,4.1,1.77,1
+HIS01276,26,6,24.8,8,Delivery,Café,1,1,5.0,1.94,1
+HIS01277,40,5,23.97,21,Delivery,Postres,0,2,4.4,1.79,0
+HIS01278,38,6,19.01,14,Presencial,Café,1,4,4.3,1.92,1
+HIS01279,35,6,16.77,17,Presencial,Postres,0,4,4.7,1.89,1
+HIS01280,49,7,24.25,4,Presencial,Café,0,0,4.0,2.07,1
+HIS01281,35,8,20.9,7,Presencial,Café,1,3,3.7,2.32,1
+HIS01282,23,1,28.44,24,Presencial,Café,0,1,3.8,0.26,1
+HIS01283,22,4,14.14,8,Presencial,Café,0,0,5.0,1.08,0
+HIS01284,36,1,17.45,5,Delivery,Café,1,0,3.3,0.2,0
+HIS01285,47,5,20.2,4,Presencial,Café,0,2,4.8,1.61,1
+HIS01286,38,4,28.42,6,Presencial,Café,1,0,4.0,1.02,1
+HIS01287,34,3,13.17,31,Delivery,Café,1,2,4.1,1.24,1
+HIS01288,43,5,21.6,37,Aplicación,Café,1,3,5.0,1.64,0
+HIS01289,33,5,19.59,4,Presencial,Café,0,1,3.6,1.73,1
+HIS01290,40,5,24.05,14,Presencial,Café,1,0,4.3,1.57,1
+HIS01291,47,7,19.94,13,Presencial,Café,0,1,4.2,2.45,1
+HIS01292,46,6,11.94,17,Aplicación,Postres,0,6,3.5,2.09,1
+HIS01293,29,5,23.28,47,Presencial,Café,1,1,3.5,1.86,0
+HIS01294,44,7,30.47,19,Presencial,Café,1,0,5.0,2.8,1
+HIS01295,36,3,24.01,18,Presencial,Postres,1,2,4.4,1.11,0
+HIS01296,37,13,17.1,1,Delivery,Café,1,2,3.5,4.14,1
+HIS01297,36,7,33.19,12,Presencial,Bebidas frías,0,2,4.3,2.59,1
+HIS01298,53,5,18.7,18,Delivery,Otros,1,1,3.8,1.51,1
+HIS01299,33,6,25.28,50,Presencial,Otros,0,2,4.5,1.94,1
+HIS01300,25,3,20.39,11,Presencial,Café,0,2,4.3,1.13,1
+HIS01301,32,2,7.76,18,Presencial,Bebidas frías,0,0,4.0,0.2,0
+HIS01302,43,7,17.66,26,Presencial,Postres,1,1,3.5,2.7,1
+HIS01303,36,4,32.71,10,Delivery,Café,0,2,3.2,1.3,1
+HIS01304,46,2,16.34,19,Delivery,Postres,0,0,3.3,1.05,1
+HIS01305,27,2,23.79,19,Presencial,Postres,1,2,4.0,1.13,0
+HIS01306,31,4,19.63,27,Presencial,Postres,0,1,4.5,1.03,1
+HIS01307,37,6,22.45,7,Delivery,Otros,1,1,3.0,2.33,0
+HIS01308,22,5,30.56,23,Delivery,Bebidas frías,1,0,4.3,1.49,1
+HIS01309,47,9,24.02,25,Delivery,Café,1,2,4.0,3.42,0
+HIS01310,20,4,18.23,13,Presencial,Café,1,1,3.6,0.94,0
+HIS01311,50,1,13.92,26,Presencial,Café,0,1,3.8,0.22,0
+HIS01312,49,8,26.56,36,Presencial,Café,0,1,3.0,2.5,0
+HIS01313,25,2,17.53,2,Delivery,Postres,1,2,4.2,0.79,1
+HIS01314,35,2,29.07,6,Presencial,Bebidas frías,1,1,5.0,0.62,0
+HIS01315,26,7,23.7,3,Presencial,Café,0,0,4.8,2.51,1
+HIS01316,48,2,20.76,17,Aplicación,Café,0,2,4.6,0.89,1
+HIS01317,32,3,9.4,23,Presencial,Café,1,2,3.9,0.76,0
+HIS01318,39,5,26.95,32,Presencial,Café,1,3,4.4,1.64,1
+HIS01319,18,3,26.37,35,Presencial,Café,0,1,4.3,0.65,1
+HIS01320,37,6,18.83,12,Delivery,Bebidas frías,1,0,3.8,1.6,1
+HIS01321,38,10,20.07,13,Delivery,Postres,0,3,5.0,2.93,1
+HIS01322,18,6,28.31,21,Presencial,Café,1,1,3.2,1.85,0
+HIS01323,34,4,16.24,4,Presencial,Postres,1,5,4.0,1.11,1
+HIS01324,52,5,28.86,17,Delivery,Postres,0,1,4.1,1.35,1
+HIS01325,46,4,23.1,29,Aplicación,Café,1,1,4.8,1.01,0
+HIS01326,38,4,24.78,10,Aplicación,Café,1,4,3.8,1.3,0
+HIS01327,32,6,23.24,16,Presencial,Café,0,2,4.6,1.93,1
+HIS01328,43,7,17.54,2,Presencial,Café,0,0,4.6,2.25,1
+HIS01329,19,8,14.0,8,Aplicación,Café,1,2,4.1,2.47,1
+HIS01330,26,3,22.56,32,Presencial,Café,0,2,3.7,1.19,0
+HIS01331,31,3,22.19,29,Presencial,Café,1,2,4.3,1.17,0
+HIS01332,28,5,10.95,28,Delivery,Café,1,2,3.5,1.84,0
+HIS01333,34,4,14.24,53,Presencial,Café,0,1,3.8,0.87,0
+HIS01334,50,6,24.83,21,Presencial,Café,0,0,4.2,1.62,0
+HIS01335,30,4,24.34,14,Presencial,Café,0,2,3.7,0.8,0
+HIS01336,36,2,13.21,4,Delivery,Café,0,0,4.4,0.68,1
+HIS01337,22,8,22.97,7,Presencial,Café,1,0,4.8,2.59,1
+HIS01338,43,7,25.51,5,Presencial,Café,0,1,4.6,2.47,1
+HIS01339,33,5,23.94,9,Aplicación,Bebidas frías,0,2,4.1,1.23,1
+HIS01340,48,8,16.87,11,Aplicación,Café,0,2,4.2,2.84,1
+HIS01341,32,6,18.94,6,Presencial,Café,0,0,4.6,2.18,0
+HIS01342,45,3,20.23,10,Presencial,Café,0,2,5.0,0.83,1
+HIS01343,44,12,21.78,31,Delivery,Café,0,0,4.0,4.09,1
+HIS01344,26,6,16.95,13,Delivery,Café,0,2,3.8,2.3,1
+HIS01345,35,8,17.29,12,Presencial,Café,0,1,3.5,2.62,1
+HIS01346,45,5,25.18,17,Presencial,Otros,1,0,5.0,1.74,1
+HIS01347,46,4,17.61,17,Presencial,Café,0,1,3.9,1.15,1
+HIS01348,27,5,12.04,18,Presencial,Bebidas frías,0,2,4.3,1.62,1
+HIS01349,46,4,16.33,4,Delivery,Bebidas frías,1,0,3.6,1.49,0
+HIS01350,30,2,29.35,11,Presencial,Café,1,0,5.0,0.69,1
+HIS01351,27,3,20.3,15,Presencial,Café,0,0,3.5,0.93,1
+HIS01352,53,5,14.3,18,Presencial,Café,1,3,3.6,1.4,1
+HIS01353,38,7,30.95,1,Presencial,Café,0,4,4.3,1.95,1
+HIS01354,42,5,24.79,5,Delivery,Café,0,4,3.7,1.5,1
+HIS01355,33,8,29.91,27,Presencial,Café,1,2,4.6,2.57,1
+HIS01356,50,4,26.93,16,Presencial,Postres,1,2,3.7,0.95,1
+HIS01357,31,3,26.29,18,Presencial,Bebidas frías,0,2,4.4,0.7,1
+HIS01358,30,2,21.23,19,Presencial,Café,1,1,4.6,1.07,1
+HIS01359,26,9,22.36,23,Presencial,Café,0,0,3.9,2.51,0
+HIS01360,31,4,22.06,20,Aplicación,Bebidas frías,1,2,3.7,1.76,0
+HIS01361,31,2,16.34,3,Presencial,Postres,1,4,4.8,0.28,0
+HIS01362,30,6,10.1,4,Presencial,Bebidas frías,1,1,4.9,2.05,1
+HIS01363,35,7,10.02,13,Aplicación,Café,0,1,3.6,2.1,1
+HIS01364,41,4,21.42,20,Presencial,Café,0,1,3.6,1.51,1
+HIS01365,29,6,24.26,20,Presencial,Postres,1,1,3.7,1.84,1
+HIS01366,43,3,34.19,27,Presencial,Café,0,1,3.4,0.92,1
+HIS01367,26,7,14.65,8,Presencial,Café,1,3,4.8,2.28,1
+HIS01368,35,9,26.45,22,Presencial,Café,0,0,4.2,3.16,1
+HIS01369,45,3,20.89,15,Presencial,Bebidas frías,0,1,3.5,1.13,1
+HIS01370,44,6,18.35,9,Presencial,Café,0,2,4.4,2.3,1
+HIS01371,39,3,26.89,23,Presencial,Bebidas frías,1,1,4.5,1.0,1
+HIS01372,39,3,18.79,16,Aplicación,Café,0,2,4.7,1.2,1
+HIS01373,26,3,27.7,15,Presencial,Café,1,0,3.5,0.69,1
+HIS01374,38,7,12.6,2,Presencial,Café,0,2,3.7,2.48,0
+HIS01375,35,3,15.3,13,Presencial,Café,0,1,3.4,0.85,1
+HIS01376,34,4,28.11,9,Presencial,Café,0,2,4.8,0.98,1
+HIS01377,44,4,17.82,19,Presencial,Bebidas frías,1,1,3.9,1.47,1
+HIS01378,40,4,23.32,17,Presencial,Café,0,1,4.9,1.29,1
+HIS01379,40,5,14.39,20,Presencial,Bebidas frías,0,2,4.7,2.12,1
+HIS01380,32,4,28.08,5,Presencial,Café,1,1,3.4,1.82,1
+HIS01381,33,5,28.02,10,Aplicación,Café,0,1,3.7,1.48,0
+HIS01382,34,2,24.56,25,Presencial,Café,0,0,4.2,0.27,1
+HIS01383,47,4,28.91,43,Presencial,Café,0,0,4.6,1.27,0
+HIS01384,39,6,10.32,6,Presencial,Postres,0,1,4.0,1.71,1
+HIS01385,18,5,27.88,4,Presencial,Bebidas frías,1,0,4.2,1.75,1
+HIS01386,47,2,35.23,9,Presencial,Café,1,0,4.9,1.15,0
+HIS01387,41,5,28.61,3,Presencial,Café,1,2,4.2,1.64,1
+HIS01388,40,3,21.44,38,Delivery,Café,1,3,4.4,1.22,0
+HIS01389,38,5,22.24,45,Presencial,Café,0,2,3.5,1.4,0
+HIS01390,50,4,16.98,14,Aplicación,Bebidas frías,0,0,3.8,1.1,0
+HIS01391,47,4,28.06,6,Presencial,Café,1,3,4.2,1.29,1
+HIS01392,40,4,16.71,11,Presencial,Bebidas frías,1,0,4.1,1.47,1
+HIS01393,35,4,19.32,5,Presencial,Café,1,2,4.6,1.44,1
+HIS01394,44,3,16.43,24,Presencial,Otros,1,1,3.6,1.07,0
+HIS01395,29,7,20.57,2,Presencial,Otros,0,2,3.8,1.89,1
+HIS01396,57,7,16.0,7,Delivery,Bebidas frías,1,2,4.0,2.05,0
+HIS01397,39,6,10.96,18,Delivery,Bebidas frías,0,0,4.3,1.63,1
+HIS01398,30,6,19.24,37,Presencial,Postres,0,0,4.3,1.89,0
+HIS01399,29,6,26.07,11,Delivery,Bebidas frías,0,4,4.1,2.27,1
+HIS01400,31,3,32.03,23,Presencial,Café,1,1,4.4,0.99,1
+HIS01401,36,5,16.19,5,Presencial,Café,1,1,4.2,1.92,1
+HIS01402,57,7,22.16,21,Presencial,Café,0,1,3.7,2.68,1
+HIS01403,52,6,20.92,22,Presencial,Café,0,4,3.3,1.83,1
+HIS01404,31,8,14.41,4,Presencial,Café,1,1,4.2,2.16,1
+HIS01405,25,10,23.0,8,Presencial,Café,0,0,4.8,2.77,1
+HIS01406,18,4,16.73,15,Presencial,Café,0,2,4.3,0.98,1
+HIS01407,35,7,7.54,17,Presencial,Café,0,0,3.9,2.53,1
+HIS01408,32,7,22.05,28,Presencial,Café,0,1,4.3,2.34,1
+HIS01409,40,3,26.06,25,Presencial,Postres,0,2,3.5,0.8,1
+HIS01410,18,3,17.81,23,Presencial,Postres,0,1,3.9,0.92,0
+HIS01411,35,7,25.94,5,Presencial,Café,1,2,3.8,2.47,1
+HIS01412,37,7,22.74,3,Presencial,Bebidas frías,1,3,4.6,2.67,1
+HIS01413,38,4,16.18,10,Delivery,Café,1,4,4.8,1.48,1
+HIS01414,25,5,12.95,9,Presencial,Café,1,1,4.1,1.27,1
+HIS01415,51,5,19.73,2,Presencial,Café,0,1,3.7,1.12,0
+HIS01416,36,4,18.5,31,Presencial,Café,0,0,3.5,1.43,0
+HIS01417,18,3,21.56,5,Aplicación,Café,1,3,4.4,1.34,1
+HIS01418,30,7,24.15,3,Aplicación,Café,1,2,5.0,2.45,1
+HIS01419,34,9,16.91,21,Presencial,Café,0,1,4.4,3.27,1
+HIS01420,46,2,17.7,29,Presencial,Café,0,1,3.3,0.92,0
+HIS01421,41,5,15.13,2,Presencial,Otros,0,1,4.0,1.82,0
+HIS01422,27,5,23.84,24,Presencial,Bebidas frías,0,1,3.4,1.38,0
+HIS01423,43,5,25.46,5,Presencial,Bebidas frías,0,2,4.4,1.63,1
+HIS01424,36,8,21.21,46,Presencial,Café,1,1,4.4,2.67,0
+HIS01425,43,6,13.75,6,Presencial,Café,0,2,3.5,2.5,1
+HIS01426,37,3,18.67,34,Presencial,Café,0,1,4.1,0.78,1
+HIS01427,52,6,22.86,12,Presencial,Café,0,1,3.9,2.42,1
+HIS01428,36,6,20.97,60,Presencial,Postres,0,4,4.1,2.09,1
+HIS01429,35,7,18.28,20,Presencial,Café,1,1,3.8,2.37,1
+HIS01430,28,4,30.33,6,Presencial,Postres,1,1,4.3,1.27,1
+HIS01431,47,2,20.09,52,Presencial,Postres,0,4,3.8,1.08,0
+HIS01432,29,4,26.86,11,Delivery,Café,1,1,4.6,1.11,0
+HIS01433,30,5,21.64,25,Presencial,Café,1,1,4.7,1.74,1
+HIS01434,31,7,12.87,29,Delivery,Bebidas frías,0,2,4.8,2.29,1
+HIS01435,38,2,25.58,22,Presencial,Café,0,1,5.0,0.43,1
+HIS01436,32,5,18.75,12,Presencial,Café,0,2,4.4,1.16,1
+HIS01437,28,6,19.3,32,Delivery,Café,0,0,4.3,2.38,0
+HIS01438,47,2,26.88,21,Aplicación,Café,0,1,3.5,0.35,0
+HIS01439,37,8,24.03,2,Presencial,Café,0,0,4.6,2.66,1
+HIS01440,40,5,15.67,26,Presencial,Postres,1,3,3.7,1.85,0
+HIS01441,52,4,20.78,59,Delivery,Bebidas frías,1,1,4.1,1.2,0
+HIS01442,34,7,19.66,22,Presencial,Otros,1,2,4.5,2.26,1
+HIS01443,54,6,8.19,36,Presencial,Postres,0,1,5.0,2.1,1
+HIS01444,44,4,12.85,9,Presencial,Café,1,0,3.4,1.72,0
+HIS01445,22,6,17.16,30,Presencial,Café,1,1,4.8,1.73,0
+HIS01446,34,11,7.74,19,Presencial,Café,1,2,4.4,3.42,1
+HIS01447,19,7,20.47,36,Presencial,Café,1,0,5.0,1.88,0
+HIS01448,23,4,17.87,21,Presencial,Café,1,3,5.0,1.54,0
+HIS01449,50,10,20.0,12,Aplicación,Postres,0,1,4.5,3.91,1
+HIS01450,28,3,23.12,6,Aplicación,Postres,1,0,4.2,0.92,1
+HIS01451,35,3,27.22,6,Presencial,Café,1,0,4.7,0.74,1
+HIS01452,36,7,28.36,17,Presencial,Café,0,1,3.2,2.09,1
+HIS01453,52,6,15.09,10,Presencial,Postres,0,0,3.4,1.87,1
+HIS01454,22,5,31.3,35,Delivery,Café,1,0,4.4,1.6,1
+HIS01455,47,6,23.32,25,Presencial,Café,0,1,3.4,2.29,0
+HIS01456,36,3,21.83,27,Presencial,Café,0,2,3.3,0.9,0
+HIS01457,35,4,20.05,57,Presencial,Bebidas frías,1,1,3.5,1.15,0
+HIS01458,47,5,6.55,27,Presencial,Bebidas frías,1,0,4.1,1.3,1
+HIS01459,42,5,22.5,7,Presencial,Café,0,2,4.6,1.93,1
+HIS01460,44,5,22.81,10,Presencial,Postres,1,2,4.3,1.47,0
+HIS01461,45,6,14.21,1,Presencial,Café,0,1,5.0,1.85,1
+HIS01462,33,4,17.47,14,Presencial,Bebidas frías,1,3,3.5,1.47,0
+HIS01463,25,4,20.13,4,Presencial,Postres,1,0,5.0,0.98,0
+HIS01464,40,5,14.74,8,Presencial,Café,1,0,3.5,1.5,1
+HIS01465,38,2,34.89,9,Presencial,Postres,0,1,3.6,0.62,1
+HIS01466,23,5,12.81,38,Delivery,Café,1,1,4.1,1.57,0
+HIS01467,24,4,14.87,9,Presencial,Café,1,0,3.9,1.41,0
+HIS01468,57,6,19.25,6,Presencial,Café,0,1,3.6,1.95,1
+HIS01469,21,4,28.75,39,Presencial,Postres,1,1,3.8,1.72,1
+HIS01470,31,5,25.86,9,Presencial,Postres,1,1,4.3,1.29,1
+HIS01471,49,9,20.78,34,Presencial,Café,1,3,4.2,2.71,1
+HIS01472,21,7,22.65,32,Aplicación,Postres,0,4,4.0,2.25,1
+HIS01473,25,3,12.9,5,Presencial,Café,0,0,3.6,1.01,1
+HIS01474,48,10,13.58,9,Presencial,Bebidas frías,0,0,4.1,3.95,1
+HIS01475,38,4,8.63,24,Presencial,Café,1,0,3.8,1.28,0
+HIS01476,32,4,12.21,17,Presencial,Postres,1,1,4.7,1.14,1
+HIS01477,32,1,18.04,2,Presencial,Café,1,2,3.8,0.33,1
+HIS01478,36,5,33.45,20,Delivery,Café,1,1,4.4,1.81,1
+HIS01479,34,11,37.85,8,Presencial,Café,1,3,3.6,4.12,1
+HIS01480,29,1,17.02,7,Presencial,Café,1,2,4.6,0.4,1
+HIS01481,45,5,32.96,21,Presencial,Otros,1,1,4.4,1.41,1
+HIS01482,29,7,23.67,33,Delivery,Postres,0,2,3.9,2.2,1
+HIS01483,26,7,15.92,9,Aplicación,Café,0,2,4.7,2.42,1
+HIS01484,35,5,21.23,14,Presencial,Bebidas frías,0,3,4.3,1.66,0
+HIS01485,23,4,32.52,16,Aplicación,Bebidas frías,0,1,4.1,1.42,1
+HIS01486,29,6,19.59,20,Presencial,Bebidas frías,0,1,4.2,2.18,0
+HIS01487,30,7,30.53,10,Presencial,Café,1,2,3.6,2.33,0
+HIS01488,38,4,17.95,21,Presencial,Bebidas frías,1,0,3.6,1.38,0
+HIS01489,34,4,25.04,21,Presencial,Café,0,1,4.3,1.44,1
+HIS01490,45,6,22.53,25,Presencial,Bebidas frías,1,1,4.0,2.19,0
+HIS01491,31,3,14.98,11,Presencial,Otros,0,1,3.8,1.09,0
+HIS01492,26,5,11.09,28,Presencial,Café,0,1,3.2,1.69,1
+HIS01493,20,5,15.93,10,Presencial,Postres,1,4,3.7,1.63,1
+HIS01494,34,4,24.11,23,Presencial,Otros,0,0,3.2,1.55,0
+HIS01495,27,9,24.9,15,Presencial,Bebidas frías,1,0,3.9,2.79,1
+HIS01496,23,5,32.59,12,Presencial,Otros,1,0,4.1,1.51,1
+HIS01497,55,7,23.7,16,Presencial,Café,0,2,4.1,2.03,1
+HIS01498,25,6,19.9,5,Presencial,Postres,1,1,4.2,1.87,0
+HIS01499,42,6,29.16,18,Presencial,Otros,0,0,4.6,1.81,1
+HIS01500,32,1,13.33,22,Delivery,Postres,1,1,4.1,0.3,0
